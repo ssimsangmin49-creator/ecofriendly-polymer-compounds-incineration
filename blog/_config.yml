@@ -1,6 +1,6 @@
 title: AZADRG Blog
 description: Tech notes & field logs
-url: "https://azadrg.cloud"  
+url: "azadrg.cloud"  
 baseurl: "/blog"
 theme: minima
 plugins:
