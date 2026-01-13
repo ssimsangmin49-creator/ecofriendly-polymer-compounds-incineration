@@ -6,4 +6,5 @@ plugins:
 
 feed:
   path: blog/feed.xml
+future: true
 
