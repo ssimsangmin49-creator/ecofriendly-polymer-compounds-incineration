@@ -8,3 +8,8 @@ feed:
   path: blog/feed.xml
 future: true
 
+permalink: /blog/:year/:month/:day/:title.html
+plugins:
+  - jekyll-feed
+feed:
+  path: blog/feed.xml
