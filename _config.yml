@@ -1,1 +1,9 @@
+title: AZADRG Blog
+description: Tech notes & field logs
+url: "https://azadrg.cloud"
+plugins:
+  - jekyll-feed
+
+feed:
+  path: blog/feed.xml
 
