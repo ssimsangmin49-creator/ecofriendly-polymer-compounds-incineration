@@ -15,7 +15,7 @@ this incineration technology in low-income countries.
 - Composition of the incinerator body using refractory bricks
 - Use of solar energy
 - Use of hot water
-- 
+
 ## 3. Composition of the incinerator body using refractory bricks
 
 <figure style="text-align:center;">
