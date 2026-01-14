@@ -18,5 +18,9 @@ this incineration technology in low-income countries.
 - 
 ## 3. Composition of the incinerator body using refractory bricks
 
-Initial results indicate that optimized airflow
-significantly improves heat utilization.
+<figure style="text-align:center;">
+  <img src="{{ '/assets/images/refractory-brick.png' | relative_url }}"
+       alt="Heat utilization concept diagram"
+       style="width:65%;">
+  <figcaption>Heat recovery and utilization process</figcaption>
+</figure>
