@@ -7,15 +7,15 @@ label: "AZADrg Blog (Application report-01)"
 
 ## 1. Introduction
 
-This post analyzes the efficiency of heat recovery
-during polymer compound incineration processes.
+This blog post presents a relatively inexpensive and convenient way to utilize 
+this incineration technology in low-income countries.
 
 ## 2. Key Factors
 
-- Flue gas temperature
-- Heat exchanger design
-- Residence time
-
+- Composition of the incinerator body using refractory bricks
+- Use of solar energy
+- Use of hot water
+- 
 ## 3. Preliminary Observations
 
 Initial results indicate that optimized airflow
