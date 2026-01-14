@@ -45,8 +45,14 @@ rapidly combust beneath the second stage air curtain.
   <figcaption>Figure 1. Conceptual diagram of simultaneous combustion and incineration by air curtain</figcaption>
 </figure>
 
+
 ## 5. No need for a secondary chamber
 
 Unlike incinerators that typically require a secondary chamber, this incinerator handles 
 both combustion and incineration processes simultaneously within a single incinerator, 
 eliminating the need for a separate secondary chamber.
+
+## 6. Recycling of incineration heat
+
+The heat generated during incineration can be used to produce hot air, hot water, 
+or to power a steam generator. This aspect will be covered separately.
