@@ -22,5 +22,5 @@ this incineration technology in low-income countries.
   <img src="{{ '/assets/images/refractory-brick.png' | relative_url }}"
        alt="Heat utilization concept diagram"
        style="width:65%;">
-  <figcaption>Heat recovery and utilization process</figcaption>
+  <figcaption>Figure 1. Basic refractory bricks for manufacturing a 1000mm incinerator</figcaption>
 </figure>
