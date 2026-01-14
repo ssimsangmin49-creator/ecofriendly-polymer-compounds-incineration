@@ -16,7 +16,7 @@ this incineration technology in low-income countries.
 - Use of solar energy
 - Use of hot water
 - 
-## 3. Preliminary Observations
+## 3. Composition of the incinerator body using refractory bricks
 
 Initial results indicate that optimized airflow
 significantly improves heat utilization.
