@@ -3,10 +3,8 @@ layout: default
 ---
 
 <article>
-
-  <!-- 🔹 상단 블로그 라벨 -->
   <div class="post-label">
-    AZADrg Blog <span>(Tech report-01)</span>
+    {{ page.label }}
   </div>
 
   <h1>{{ page.title }}</h1>
@@ -16,5 +14,4 @@ layout: default
   </p>
 
   {{ content }}
-
 </article>
