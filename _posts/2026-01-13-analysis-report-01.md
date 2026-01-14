@@ -18,8 +18,13 @@ to the air curtain, thereby simultaneously carrying out the incineration and com
 
 ## 3. Putting Waste into the incinerator
 
-Initial results indicate that optimized airflow
-significantly improves heat utilization.
+This incinerator requires that waste be fed into the top of the incinerator. The ash discharging pot 
+at the bottom of the incinerator must remain closed during incineration. 
+This means that if the incinerator lid is closed, waste must be fed through a separate waste inlet 
+located in the lid. 
+
+Furthermore, the amount of waste fed during incineration cannot exceed 
+the height of the primary air nozzle located below the central air injection pipe.
 
 ## 4. Putting Waste into the incinerator
 
