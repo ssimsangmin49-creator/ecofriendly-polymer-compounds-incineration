@@ -2,6 +2,7 @@
 layout: post
 title: "Heat utilization analysis of technology"
 date: 2026-01-13
+label: "AZADrg Blog (Tech report-01)"
 ---
 
 ## 1. Introduction
