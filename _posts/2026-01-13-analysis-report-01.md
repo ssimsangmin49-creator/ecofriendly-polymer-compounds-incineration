@@ -7,8 +7,8 @@ label: "AZADrg Blog (Tech report-01)"
 
 ## 1. Introduction
 
-This post analyzes the efficiency of heat recovery
-during polymer compound incineration processes.
+This article explains how the heat generated during incineration inside the incinerator is transferred 
+to the air curtain, thereby simultaneously carrying out the incineration and combustion processes.
 
 ## 2. Key Factors
 
