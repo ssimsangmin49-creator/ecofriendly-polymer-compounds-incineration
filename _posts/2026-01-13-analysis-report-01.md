@@ -39,11 +39,9 @@ rapidly combust beneath the second stage air curtain.
 ## Heat Utilization Concept
 
 <figure style="text-align:center;">
-  <img src="/assets/images/heat.png"
+  <img src="{{ '/assets/images/heat.png' | relative_url }}"
        alt="Heat utilization concept diagram"
        style="width:65%;">
-  <figcaption>
-    Heat recovery and utilization process
-  </figcaption>
+  <figcaption>Heat recovery and utilization process</figcaption>
 </figure>
 
