@@ -36,12 +36,12 @@ This differs from the concept of "pyrolysis," which occurs without oxygen. The c
 low-molecular-weight gases and vapors generated during the pyrolysis process 
 rapidly combust beneath the second stage air curtain.
 
-## Heat Utilization Concept
+### Heat Utilization Concept
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/images/heat.png' | relative_url }}"
        alt="Heat utilization concept diagram"
        style="width:65%;">
-  <figcaption>Heat recovery and utilization process</figcaption>
+  <figcaption>Figure 1. Conceptual diagram of simultaneous combustion and incineration by air curtain</figcaption>
 </figure>
 
