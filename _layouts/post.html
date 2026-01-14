@@ -3,12 +3,18 @@ layout: default
 ---
 
 <article>
+
+  <!-- 🔹 상단 블로그 라벨 -->
+  <div class="post-label">
+    AZADrg Blog <span>(Tech report-01)</span>
+  </div>
+
   <h1>{{ page.title }}</h1>
 
-  <p style="color:#6b7280; font-size:0.9rem;">
+  <p class="post-date">
     {{ page.date | date: "%Y-%m-%d" }}
   </p>
 
   {{ content }}
-</article>
 
+</article>
