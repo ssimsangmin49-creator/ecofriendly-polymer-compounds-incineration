@@ -45,3 +45,8 @@ rapidly combust beneath the second stage air curtain.
   <figcaption>Figure 1. Conceptual diagram of simultaneous combustion and incineration by air curtain</figcaption>
 </figure>
 
+## 5. No need for a secondary chamber
+
+Unlike incinerators that typically require a secondary chamber, this incinerator handles 
+both combustion and incineration processes simultaneously within a single incinerator, 
+eliminating the need for a separate secondary chamber.
