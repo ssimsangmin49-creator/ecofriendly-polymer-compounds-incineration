@@ -26,8 +26,12 @@ located in the lid.
 Furthermore, the amount of waste fed during incineration cannot exceed 
 the height of the primary air nozzle located below the central air injection pipe.
 
-## 4. Putting Waste into the incinerator
+## 4. Thermal decomposition by high temperature
 
-Initial results indicate that optimized airflow
-significantly improves heat utilization.
+Waste fed into the incinerator undergoes pyrolysis initially due to the high temperature 
+within the first stage of the air injection pipe, 
+starting from the bottom of the incinerator and reaching the air nozzle.
 
+This differs from the concept of "pyrolysis," which occurs without oxygen. The combustible, 
+low-molecular-weight gases and vapors generated during the pyrolysis process 
+rapidly combust beneath the second stage air curtain.
