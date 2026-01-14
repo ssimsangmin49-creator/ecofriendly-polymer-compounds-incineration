@@ -12,11 +12,17 @@ to the air curtain, thereby simultaneously carrying out the incineration and com
 
 ## 2. Key Factors
 
-- Flue gas temperature
-- Heat exchanger design
-- Residence time
+- Thermal decomposition by high temperature
+- Progress of combustion and incineration
+- Unnecessary secondary combustion chamber
 
-## 3. Preliminary Observations
+## 3. Putting Waste into the incinerator
 
 Initial results indicate that optimized airflow
 significantly improves heat utilization.
+
+## 4. Putting Waste into the incinerator
+
+Initial results indicate that optimized airflow
+significantly improves heat utilization.
+
