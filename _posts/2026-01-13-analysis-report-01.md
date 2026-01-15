@@ -38,11 +38,17 @@ rapidly combust beneath the second stage air curtain.
 
 ### Heat Utilization Concept
 
-<figure style="text-align:center;">
+<figure style="text-align:center; margin:2.5rem auto;">
   <img src="{{ '/assets/images/heat.png' | relative_url }}"
        alt="Heat utilization concept diagram"
-       style="width:65%;">
-  <figcaption>Figure 1. Conceptual diagram of simultaneous combustion and incineration by air curtain</figcaption>
+       style="max-width:700px; width:100%;">
+  <figcaption style="
+    margin-top:0.75rem;
+    font-size:0.9rem;
+    color:#9ca3af;
+  ">
+    Figure 1. Conceptual diagram of simultaneous combustion and incineration by air curtain
+  </figcaption>
 </figure>
 
 
