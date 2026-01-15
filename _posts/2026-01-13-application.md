@@ -18,6 +18,11 @@ this incineration technology in low-income countries.
 
 ## 3. Composition of the incinerator body using refractory bricks
 
+### <Refractory Brick Manufacturing>
+
+- Specifications of the Manufacturing Incinerator: Diameter: 1000mm, Height: 1300mm
+- Minimum Required Quantity: 560PCS 
+
 <figure style="text-align:center;">
   <img src="{{ '/assets/images/refractory-brick.png' | relative_url }}"
        alt="The incinerator body using refractory bricks"
