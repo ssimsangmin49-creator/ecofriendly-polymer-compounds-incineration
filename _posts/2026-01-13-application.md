@@ -27,6 +27,6 @@ this incineration technology in low-income countries.
     font-size:0.9rem;
     color:#9ca3af;
     ">
-  <figcaption>Figure 1. Basic refractory bricks for manufacturing a 1000mm incinerator
+  Figure 1. Basic refractory bricks for manufacturing a 1000mm incinerator
   </figcaption>
 </figure>
