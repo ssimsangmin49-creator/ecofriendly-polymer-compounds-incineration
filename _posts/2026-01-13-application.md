@@ -20,7 +20,12 @@ this incineration technology in low-income countries.
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/images/refractory-brick.png' | relative_url }}"
-       alt="Heat utilization concept diagram"
-       style="width:65%;">
+       alt="The incinerator body using refractory bricks"
+        style="max-width:700px; width:100%;">
+  <figcaption style="
+    margin-top:0.75rem;
+    font-size:0.9rem;
+    color:#9ca3af;
+    ">
   <figcaption>Figure 1. Basic refractory bricks for manufacturing a 1000mm incinerator</figcaption>
 </figure>
