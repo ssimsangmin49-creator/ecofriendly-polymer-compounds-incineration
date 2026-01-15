@@ -50,4 +50,65 @@ The following figure illustrates the conceptual structure used throughout this r
 ---
 
 ## 4. Assumptions & Definitions
+**Assumptions**
+- A1:
+- A2:
+- A3:
 
+**Definitions**
+- Term 1:
+- Term 2:
+
+---
+
+## 5. Method / Approach
+- Description of analytical, experimental, or design approach
+- Inputs, outputs, and constraints
+- Tools, models, or calculation methods used
+
+---
+
+## 6. Key Findings
+### 6.1 Results Summary
+- Finding 1:
+- Finding 2:
+- Finding 3:
+
+### 6.2 Interpretation
+- Why did these results occur?
+- Sensitivity to key variables
+
+---
+
+## 7. Implications
+- Practical or industrial relevance
+- Design or operational implications
+- Risks, trade-offs, or regulatory considerations
+
+---
+
+## 8. Limitations
+- Limitations of this report
+- Data gaps or unverified assumptions
+
+---
+
+## 9. Next Steps
+- Planned next investigations
+- Required data or experiments
+- Opportunities for collaboration
+
+---
+
+## 10. References / Links
+- Reference 1
+- Reference 2
+
+---
+
+## Appendix
+### A. Calculations / Parameters
+- (Optional)
+
+### B. Version Notes
+- v0.1 (YYYY-MM-DD): Initial template created
