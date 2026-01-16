@@ -36,7 +36,7 @@ this incineration technology in low-income countries.
   </figcaption>
 </figure>
 
-###3-b. Conceptual diagram of a 1000mm incinerator using refractory bricks
+### 3-b. Conceptual diagram of a 1000mm incinerator using refractory bricks
 
 - The number of refractory bricks loaded is 20
 - Unlike the image, each stage must be loaded at a different angle
