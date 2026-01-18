@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Waste to Energy 01"
+title: "Waste to Energy-01"
 categories: application
 ---
 
