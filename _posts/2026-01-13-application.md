@@ -78,5 +78,4 @@ this incineration technology in low-income countries.
 
 <span style="color:#1e40af; font-weight:bold;">
 The posts on this blog will be continuously updated.
-
 </span>
