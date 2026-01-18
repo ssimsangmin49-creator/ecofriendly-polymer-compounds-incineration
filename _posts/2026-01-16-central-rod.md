@@ -57,7 +57,27 @@ Alternatively, the perforation angle of the air nozzles may need to be adjusted.
     ">
   Figure 2. Image of a perforated air nozzle
   </figcaption>
-</figure>
+</figure
+
+
+### Cap screw machining
+
+The cap is necessary for cap screw machining when opening the cap to clean 
+the inside of the rod or repair a clogged air nozzle.
+
+
+<figure style="text-align:center;">
+  <img src="{{ '/assets/images/cap-screw.png' | relative_url }}"
+       alt="Cap screw machining"
+        style="max-width:700px; width:100%;">
+  <figcaption style="
+    margin-top:0.75rem;
+    font-size:0.9rem;
+    color:#9ca3af;
+    ">
+  Figure 3. Image of cap screw machining
+  </figcaption>
+</figure
 
 
 
