@@ -62,3 +62,11 @@ eliminating the need for a separate secondary chamber.
 
 The heat generated during incineration can be used to produce hot air, hot water, 
 or to power a steam generator. This aspect will be covered separately.
+
+### Note
+
+<span style="color:#1e40af; font-weight:bold;">
+The posts on this blog will be continuously updated.
+
+</span>
+
