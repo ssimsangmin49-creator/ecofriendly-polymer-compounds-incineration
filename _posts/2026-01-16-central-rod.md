@@ -27,4 +27,17 @@ depending on the size of the incinerator.
 The central rod consists of a cap, a body, a three- or four-stage air nozzle, 
 and an air intake at the bottom.
 
+<figure style="text-align:center;">
+  <img src="{{ '/assets/images/central-rod.png' | relative_url }}"
+       alt="Introducing the central rod"
+        style="max-width:700px; width:100%;">
+  <figcaption style="
+    margin-top:0.75rem;
+    font-size:0.9rem;
+    color:#9ca3af;
+    ">
+  Figure 1. The central rod configuration diagram
+  </figcaption>
+</figure>
+
 
