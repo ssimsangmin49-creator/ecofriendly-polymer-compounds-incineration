@@ -24,4 +24,7 @@ depending on the size of the incinerator.
 
 ## Composition of the Central Rod
 
-The Central Rod consists of a lid, a Main Rod, and an air inlet at the bottom
+The central rod consists of a cap, a body, a three- or four-stage air nozzle, 
+and an air intake at the bottom.
+
+
