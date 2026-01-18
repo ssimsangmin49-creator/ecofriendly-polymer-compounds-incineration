@@ -80,5 +80,15 @@ the inside of the rod or repair a clogged air nozzle.
 </figure>
 
 
+## Metal material of the central rod
+
+The metal material of the central rod is susceptible to thermal oxidation due to the high temperatures 
+generated during incineration (average temperatures exceeding 850 degrees Celsius). 
+
+Therefore, the pipe must be made of a metal material resistant to thermal oxidation. 
+However, a cost analysis should be conducted to compare this with the use of multiple metal pipes made of general metal.
+
+
+
 
 
