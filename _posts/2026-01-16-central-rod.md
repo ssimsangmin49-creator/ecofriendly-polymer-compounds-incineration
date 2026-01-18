@@ -59,6 +59,14 @@ Alternatively, the perforation angle of the air nozzles may need to be adjusted.
   </figcaption>
 </figure>
 
+### Number of air nozzles per stage
+
+The number of air nozzles per stage and their height vary depending on the diameter 
+of the central rod, which varies depending on the size of the incinerator. 
+<span style="color:#1e40af; font-weight:bold;">
+This should be standardized through field testing for each incinerator type.
+</span>
+
 
 ### Cap screw machining
 
