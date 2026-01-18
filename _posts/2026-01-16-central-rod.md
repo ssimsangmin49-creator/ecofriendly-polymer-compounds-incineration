@@ -57,7 +57,7 @@ Alternatively, the perforation angle of the air nozzles may need to be adjusted.
     ">
   Figure 2. Image of a perforated air nozzle
   </figcaption>
-</figure
+</figure>
 
 
 ### Cap screw machining
@@ -77,7 +77,7 @@ the inside of the rod or repair a clogged air nozzle.
     ">
   Figure 3. Image of cap screw machining
   </figcaption>
-</figure
+</figure>
 
 
 
