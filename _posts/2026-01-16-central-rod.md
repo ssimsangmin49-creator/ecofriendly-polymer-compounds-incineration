@@ -2,7 +2,6 @@
 layout: post
 title: "Central Rod"
 DATE: 2026-01-16
-categories: tech
 Label: "AZADrg blog(Tech report-02)"
 ---
 
