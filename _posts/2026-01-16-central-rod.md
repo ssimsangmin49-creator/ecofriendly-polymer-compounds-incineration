@@ -40,4 +40,25 @@ and an air intake at the bottom.
   </figcaption>
 </figure>
 
+### Air nozzle
+
+The air nozzles perforated in each layer can be perforated in two stages, as shown in the image. 
+This is to facilitate heat circulation within the incinerator. 
+Alternatively, the perforation angle of the air nozzles may need to be adjusted.
+
+<figure style="text-align:center;">
+  <img src="{{ '/assets/images/central-rod.png' | relative_url }}"
+       alt="Introducing the air nozzle"
+        style="max-width:700px; width:100%;">
+  <figcaption style="
+    margin-top:0.75rem;
+    font-size:0.9rem;
+    color:#9ca3af;
+    ">
+  Figure 2. Image of a perforated air nozzle
+  </figcaption>
+</figure>
+
+
+
 
