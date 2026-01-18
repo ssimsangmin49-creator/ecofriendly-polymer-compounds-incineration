@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Waste to Energy-01"
-categories: application
+date: 2026-01-17
+label: AZADrg blog(Application report-02)
 ---
 
 Application to WTE(Waste-to-Energy)-01
