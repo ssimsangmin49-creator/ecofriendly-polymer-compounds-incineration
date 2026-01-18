@@ -72,3 +72,11 @@ this incineration technology in low-income countries.
   Figure 3. Conceptual diagram of a 1000mm incinerator using Solar pannel & Dust collector
   </figcaption>
 </figure>
+
+
+### Note
+
+<span style="color:#dc2626; font-weight:bold;">
+This component must withstand temperatures above 900°C.
+</span>
+The posts on this blog will be continuously updated.
