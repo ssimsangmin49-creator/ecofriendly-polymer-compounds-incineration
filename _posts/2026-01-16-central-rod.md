@@ -3,7 +3,7 @@ layout: post
 title: "Central Rod"
 DATE: 2026-01-16
 categories: tech
-Label: "AZADrg blog(tech report-02)"
+Label: "AZADrg blog(Tech report-02)"
 ---
 
 About the fabrication and installation of the Central Rod...
