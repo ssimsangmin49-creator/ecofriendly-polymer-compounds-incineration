@@ -74,4 +74,4 @@ Use the provided Markdown templates to report:
 - Measured results
 - Unexpected behavior
 
-Templates are located in: -templates
+Templates are located in: 
