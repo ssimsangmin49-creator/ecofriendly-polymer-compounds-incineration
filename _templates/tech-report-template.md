@@ -1,12 +1,8 @@
----
-layout: post
-title: "Tech Report ## — Template"
-date:
-categories: [tech-report]
-tags: []
-description: "Reusable markdown template for technical reports"
-author: "AZADrg"
----
+<!--
+TEMPLATE ONLY
+Do not add YAML front matter here.
+-->
+
 
 > **TL;DR**  
 > - One-line takeaway #1  
