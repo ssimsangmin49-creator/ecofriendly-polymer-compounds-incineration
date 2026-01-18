@@ -47,7 +47,7 @@ This is to facilitate heat circulation within the incinerator.
 Alternatively, the perforation angle of the air nozzles may need to be adjusted.
 
 <figure style="text-align:center;">
-  <img src="{{ '/assets/images/central-rod.png' | relative_url }}"
+  <img src="{{ '/assets/images/air-nozzle.png' | relative_url }}"
        alt="Introducing the air nozzle"
         style="max-width:700px; width:100%;">
   <figcaption style="
