@@ -76,7 +76,7 @@ this incineration technology in low-income countries.
 
 ### Note
 
-<span style="color:#dc2626; font-weight:bold;">
-This component must withstand temperatures above 900°C.
-</span>
+<span style="color:#1e40af; font-weight:bold;">
 The posts on this blog will be continuously updated.
+
+</span>
