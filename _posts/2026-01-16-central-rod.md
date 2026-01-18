@@ -89,6 +89,12 @@ Therefore, the pipe must be made of a metal material resistant to thermal oxidat
 However, a cost analysis should be conducted to compare this with the use of multiple metal pipes made of general metal.
 
 
+### Note
+
+<span style="color:#1e40af; font-weight:bold;">
+The posts on this blog will be continuously updated.
+</span>
+
 
 
 
