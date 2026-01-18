@@ -69,6 +69,6 @@ this incineration technology in low-income countries.
     font-size:0.9rem;
     color:#9ca3af;
     ">
-  Figure 2. Conceptual diagram of a 1000mm incinerator using Solar pannel & Dust collector
+  Figure 3. Conceptual diagram of a 1000mm incinerator using Solar pannel & Dust collector
   </figcaption>
 </figure>
