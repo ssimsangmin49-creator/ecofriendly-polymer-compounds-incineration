@@ -59,6 +59,18 @@ Partial results, failures, and uncertainties are welcome.
 
 You can contribute in several ways:
 
+### Markdown structure
+
+Each blog post or report must start with YAML front matter:
+
+```yml
+---
+layout: post
+title: "Example Title"
+categories: tech
+---
+
+
 ### 1. Share questions or observations
 
 Use **GitHub Issues** for:
