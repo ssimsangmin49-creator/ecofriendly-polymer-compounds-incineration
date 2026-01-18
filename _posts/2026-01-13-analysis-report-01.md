@@ -67,6 +67,5 @@ or to power a steam generator. This aspect will be covered separately.
 
 <span style="color:#1e40af; font-weight:bold;">
 The posts on this blog will be continuously updated.
-
 </span>
 
