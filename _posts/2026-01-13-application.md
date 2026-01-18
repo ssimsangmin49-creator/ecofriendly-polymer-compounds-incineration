@@ -53,3 +53,22 @@ this incineration technology in low-income countries.
   Figure 2. Conceptual diagram of a 1000mm incinerator using refractory bricks
   </figcaption>
 </figure>
+
+
+### 3-c. Conceptual diagram of a 1000mm incinerator using Solar pannel & Dust collxctor
+
+- This image is a concept image. Detailed data on solar panels and dust collectors
+  must be compiled from accurate data on related technologies.
+
+<figure style="text-align:center;">
+  <img src="{{ '/assets/images/1000mm-modify.png' | relative_url }}"
+       alt="The incinerator body using refractory bricks"
+        style="max-width:700px; width:100%;">
+  <figcaption style="
+    margin-top:0.75rem;
+    font-size:0.9rem;
+    color:#9ca3af;
+    ">
+  Figure 2. Conceptual diagram of a 1000mm incinerator using Solar pannel & Dust collector
+  </figcaption>
+</figure>
