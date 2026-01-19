@@ -34,15 +34,15 @@ This blog assumes that two incinerators larger than 1500 mm are connected in par
 to incinerate polymer compounds.
 
 <figure style="text-align:center;">
-  <img src="{{ '/assets/images/cap-screw.png' | relative_url }}"
-       alt="Cap screw machining"
+  <img src="{{ '/assets/images/parallel.png' | relative_url }}"
+       alt="Parallel connection of incinerators"
         style="max-width:700px; width:100%;">
   <figcaption style="
     margin-top:0.75rem;
     font-size:0.9rem;
     color:#9ca3af;
     ">
-  Figure 3. Image of cap screw machining
+  Figure 1. Parallel connection image of an incinerator
   </figcaption>
 </figure>
 
