@@ -67,8 +67,8 @@ to incinerate polymer compounds.
 
 - Glass bottles, cans, and stones are sorted and removed from the waste fed into the incinerator,
   the waste is crushed in a shredder, and then loaded onto a conveyor belt
-<span style="color:#1e40af; font-weight:bold;">
-- Glass bottles, cans and rocks are the only materials that cannot be incinerated in this incinerator
+- <span style="color:#1e40af; font-weight:bold;">
+  Glass bottles, cans and rocks are the only materials that cannot be incinerated in this incinerator
 </span>
 
 <figure style="text-align:center;">
