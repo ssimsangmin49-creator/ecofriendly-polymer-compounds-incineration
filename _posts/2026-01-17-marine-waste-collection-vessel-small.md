@@ -1,14 +1,14 @@
 
 ---
 layout: post
-title: "Applicable to marine waste collection vessels (small)"
+title: "Applicable to marine waste collection vessels"
 date: 2026-01-17
 label: "AZADrg Blog (Application report-03)"
 ---
 
 ## 1. Introduction
 
-This incineration technology can simultaneously collect and incinerate marine debris 
+This incineration technology can simultaneously collect and incinerate marine waste
 in an environmentally friendly manner. 
 
 This blog post introduces a method for collecting and incinerating marine waste 
