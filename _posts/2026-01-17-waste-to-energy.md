@@ -13,3 +13,14 @@ This blog post will explain, with diagrams, the most basic method for operating
 a Waste-to-Energy (WTE) facility using the incinerator introduced in this blog. 
 However, this guide was written with consideration given the limited capacity 
 of the incinerator being introduced.
+
+First, we will introduce a WTE facility dedicated to polymer compound incineration, 
+equipped with a 2MW steam boiler-based power generation facility.
+
+## Incinerator Size
+
+Incinerators used in WTE for polymer compound incineration should be 
+at least 1,500 mm in diameter (2,000 or 2,500 mm recommended). 
+Parallel operation of multiple incinerators is recommended. 
+This ensures sufficient heat generation. Connecting two or more incinerators 
+in parallel ensures continued operation in the event of one incinerator failure.
