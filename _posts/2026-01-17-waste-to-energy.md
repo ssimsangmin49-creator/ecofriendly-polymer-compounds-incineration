@@ -22,5 +22,6 @@ equipped with a 2MW steam boiler-based power generation facility.
 Incinerators used in WTE for polymer compound incineration should be 
 at least 1,500 mm in diameter (2,000 or 2,500 mm recommended). 
 Parallel operation of multiple incinerators is recommended. 
+
 This ensures sufficient heat generation. Connecting two or more incinerators 
 in parallel ensures continued operation in the event of one incinerator failure.
