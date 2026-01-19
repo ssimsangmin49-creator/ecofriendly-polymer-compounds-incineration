@@ -37,8 +37,12 @@ despite a certain moisture content.
 
 ## 3. Types of marine waste that can be incinerated
 
+<span style="color:#1e40af; font-weight:bold;">
 Simply put, all the waste floating on the ocean can be incinerated, 
 with the exception of things like clogged glass bottles and butane gas canisters.
+</span>
+
+
 
 
 
