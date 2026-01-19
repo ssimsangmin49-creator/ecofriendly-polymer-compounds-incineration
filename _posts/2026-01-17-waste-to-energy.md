@@ -71,7 +71,7 @@ to incinerate polymer compounds.
 - Glass bottles, cans and rocks are the only materials that cannot be incinerated in this incinerator
 
   <figure style="text-align:center;">
-  <img src="{{ '/assets/images/wte-2mw.png' | relative_url }}"
+  <img src="{{ '/assets/images/feeding-method.png' | relative_url }}"
        alt="Method of feeding waste into an incinerator"
         style="max-width:700px; width:100%;">
   <figcaption style="
