@@ -63,6 +63,27 @@ to incinerate polymer compounds.
   </figcaption>
 </figure>
 
+### Method of feeding waste into an incinerator
+
+- Glass bottles, cans, and stones are sorted and removed from the waste fed into the incinerator,
+  the waste is crushed in a shredder, and then loaded onto a conveyor belt
+
+- Glass bottles, cans and rocks are the only materials that cannot be incinerated in this incinerator
+
+  <figure style="text-align:center;">
+  <img src="{{ '/assets/images/wte-2mw.png' | relative_url }}"
+       alt="Method of feeding waste into an incinerator"
+        style="max-width:700px; width:100%;">
+  <figcaption style="
+    margin-top:0.75rem;
+    font-size:0.9rem;
+    color:#9ca3af;
+    ">
+  Figure 3. Feeding waste into an incinerator using a shredder and conveyor
+  </figcaption>
+</figure>
+
+
 
 
 
