@@ -33,11 +33,11 @@ despite a certain moisture content.
 
 - Types of marine waste that can be incinerated
 - Eco-friendly incineration of high-moisture marine waste
-- Use of hot water
+- Incinerator Controls
 
 ## 3. Types of marine waste that can be incinerated
 
-Simply put, all the trash floating on the ocean can be incinerated, 
+Simply put, all the waste floating on the ocean can be incinerated, 
 with the exception of things like clogged glass bottles and butane gas canisters.
 
 
