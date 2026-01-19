@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Applicable to marine waste collection vessels"
