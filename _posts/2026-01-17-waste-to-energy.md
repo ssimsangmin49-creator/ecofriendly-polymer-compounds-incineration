@@ -17,6 +17,8 @@ of the incinerator being introduced.
 First, we will introduce a WTE facility dedicated to polymer compound incineration, 
 equipped with a 2MW steam boiler-based power generation facility.
 
+The WTE facility is equipped with all waste input devices and dust collection facilities after the incinerator.
+
 ## Incinerator Size
 
 Incinerators used in WTE for polymer compound incineration should be 
@@ -30,6 +32,20 @@ in parallel ensures continued operation in the event of one incinerator failure.
 
 This blog assumes that two incinerators larger than 1500 mm are connected in parallel 
 to incinerate polymer compounds.
+
+<figure style="text-align:center;">
+  <img src="{{ '/assets/images/cap-screw.png' | relative_url }}"
+       alt="Cap screw machining"
+        style="max-width:700px; width:100%;">
+  <figcaption style="
+    margin-top:0.75rem;
+    font-size:0.9rem;
+    color:#9ca3af;
+    ">
+  Figure 3. Image of cap screw machining
+  </figcaption>
+</figure>
+
 
 
 
