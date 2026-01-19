@@ -47,6 +47,22 @@ to incinerate polymer compounds.
 </figure>
 
 
+## Overall concept of WTE using steam boiler and generator
+
+
+<figure style="text-align:center;">
+  <img src="{{ '/assets/images/wte-2mw.png' | relative_url }}"
+       alt="Overall concept of WTE using steam boiler and generator"
+        style="max-width:700px; width:100%;">
+  <figcaption style="
+    margin-top:0.75rem;
+    font-size:0.9rem;
+    color:#9ca3af;
+    ">
+  Figure 2. Overall concept of WTE using steam boiler and generator
+  </figcaption>
+</figure>
+
 
 
 
