@@ -42,6 +42,12 @@ Simply put, all the waste floating on the ocean can be incinerated,
 with the exception of things like clogged glass bottles and butane gas canisters.
 </span>
 
+## 4. Eco-friendly incineration of high-moisture marine waste
+
+Unlike batch incinerators, this incinerator can continuously feed waste 
+into the upper part of the incinerator, and can sufficiently incinerate 
+marine waste with a high moisture content (waste with a moisture content of about 80%) 
+after a slight dehydration process.
 
 
 
