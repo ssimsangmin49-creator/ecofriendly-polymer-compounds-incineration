@@ -25,3 +25,10 @@ Parallel operation of multiple incinerators is recommended.
 
 This ensures sufficient heat generation. Connecting two or more incinerators 
 in parallel ensures continued operation in the event of one incinerator failure.
+
+### Parallel connection of incinerators
+
+This blog assumes that two incinerators larger than 1500 mm are connected in parallel 
+to incinerate polymer compounds.
+
+
