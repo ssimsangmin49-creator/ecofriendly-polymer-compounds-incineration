@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Waste to Energy-01"
-date: 2026-01-17
+permalink: /waste-to-energy/
 label: "AZADrg blog(Application report-02)"
 ---
 
