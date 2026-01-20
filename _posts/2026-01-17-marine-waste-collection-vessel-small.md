@@ -70,4 +70,22 @@ In this area, it is also crucial to expand quantitative data after implementatio
 Considering the ocean environment, a bag filter-type dust collector was installed. 
 This area also requires data collection on the results of field tests to improve its structure and performance.
 
+## Incinerator controls
+
+Control of the operation of each incinerator is possible through the control box on the deck 
+and the control system installed in the cabin, allowing for independent or mixed operation.
+
+<figure style="text-align:center;">
+  <img src="{{ '/assets/images/control-small.png' | relative_url }}"
+       alt="Incinerator control on a small ship"
+        style="max-width:700px; width:100%;">
+  <figcaption style="
+    margin-top:0.75rem;
+    font-size:0.9rem;
+    color:#9ca3af;
+    ">
+  Figure 2. Control box on deck and control system installed in cabin
+  </figcaption>
+</figure>
+
 
