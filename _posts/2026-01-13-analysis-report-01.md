@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heat utilization analysis of technology"
-date: 2026-01-13
+permalink: /analysis-report/
 label: "AZADrg Blog (Tech report-01)"
 ---
 
