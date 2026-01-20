@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Applicable to marine waste collection vessels"
-date: 2026-01-17
+permalink: Marine waste collection vessel - small size
 label: "AZADrg Blog (Application report-03)"
 ---
 
