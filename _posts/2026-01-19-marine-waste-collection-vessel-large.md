@@ -42,7 +42,7 @@ but the only remaining pieces of broken glass are later discharged along with th
 However, the number of glass bottles floating in the ocean is very small.
 
 <figure style="text-align:center;">
-  <img src="{{ '/assets/images/ship-large.png' | relative_url }}"
+  <img src="{{ '/assets/images/process.png' | relative_url }}"
        alt="Shredding, deodorization and separation of marine waste"
         style="max-width:700px; width:100%;">
   <figcaption style="
@@ -50,7 +50,7 @@ However, the number of glass bottles floating in the ocean is very small.
     font-size:0.9rem;
     color:#9ca3af;
     ">
-  Figure 2. Process image of crushing, deodorization, and separation of marine waste
+  Figure 2. Process image ofshredding, deodorization and separation of marine waste
   </figcaption>
 </figure>
 
