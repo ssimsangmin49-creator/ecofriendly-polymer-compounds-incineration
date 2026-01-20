@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Application of technology in low-income countries"
-permalink: application
+permalink: /application/
 label: "AZADrg Blog (Application report-01)"
 ---
 
