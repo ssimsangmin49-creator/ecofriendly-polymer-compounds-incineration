@@ -68,7 +68,7 @@ The Push & Pull type waste inlet on the side of the incinerator is operated by t
     font-size:0.9rem;
     color:#9ca3af;
     ">
-  Figure 2. Image of change in waste input method
+  Figure 3. Image of change in waste input method
   </figcaption>
 </figure>
 
