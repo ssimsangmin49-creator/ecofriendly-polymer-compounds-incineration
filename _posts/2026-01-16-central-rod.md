@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Central Rod"
-permalink: central-rod
+permalink: /central-rod/
 label: "AZADrg blog(Tech report-02)"
 ---
 
