@@ -32,7 +32,7 @@ despite its moisture content, to collect, sort, dehydrate, and incinerate large 
 - Eco-friendly incineration of high-moisture marine waste
 - Incinerator Controls
 
-## 3.  Shredding, deodorization and separation of marine waste
+## 3. Shredding, deodorization and separation of marine waste
 
 <span style="color:#1e40af; font-weight:bold;">
 Incineration of large quantities of marine debris involves collection, shredding, dehydration, and metal removal.
@@ -51,6 +51,24 @@ However, the number of glass bottles floating in the ocean is very small.
     color:#9ca3af;
     ">
   Figure 2. Process image of shredding, deodorization and separation of marine waste
+  </figcaption>
+</figure>
+
+
+## 4. Change in waste input method
+
+The Push & Pull type waste inlet on the side of the incinerator is operated by the control system.
+
+<figure style="text-align:center;">
+  <img src="{{ '/assets/images/waste-inlet.png' | relative_url }}"
+       alt="Change in waste input method"
+        style="max-width:700px; width:100%;">
+  <figcaption style="
+    margin-top:0.75rem;
+    font-size:0.9rem;
+    color:#9ca3af;
+    ">
+  Figure 2. Image of change in waste input method
   </figcaption>
 </figure>
 
