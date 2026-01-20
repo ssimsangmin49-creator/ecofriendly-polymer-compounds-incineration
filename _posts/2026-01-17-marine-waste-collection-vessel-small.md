@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Applicable to marine waste collection vessels"
-permalink: /Marine waste collection vessel - small/
+permalink: /Marine waste collection vessel-small size/
 label: "AZADrg Blog (Application report-03)"
 ---
 
