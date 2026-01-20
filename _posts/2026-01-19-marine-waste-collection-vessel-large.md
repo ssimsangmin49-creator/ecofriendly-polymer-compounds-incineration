@@ -50,7 +50,7 @@ However, the number of glass bottles floating in the ocean is very small.
     font-size:0.9rem;
     color:#9ca3af;
     ">
-  Figure 2. Process image ofshredding, deodorization and separation of marine waste
+  Figure 2. Process image of shredding, deodorization and separation of marine waste
   </figcaption>
 </figure>
 
