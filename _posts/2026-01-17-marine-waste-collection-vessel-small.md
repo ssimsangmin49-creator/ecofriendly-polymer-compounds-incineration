@@ -88,4 +88,12 @@ and the control system installed in the cabin, allowing for independent or mixed
   </figcaption>
 </figure>
 
+---
+**Document status**
+- Stage: Concept 
+- Last updated: 2026-01-20
+- Looking for: peer review 
+---
+
+
 
