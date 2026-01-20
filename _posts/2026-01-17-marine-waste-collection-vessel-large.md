@@ -2,16 +2,14 @@
 layout: post
 title: "Applicable to marine waste collection vessels"
 permalink: /marine-waste-collection-vessel-small/
-label: "AZADrg Blog (Application report-03)"
+label: "AZADrg Blog (Application report-04)"
 ---
 
 ## 1. Introduction
-incineration technology can simultaneously collect and incinerate marine waste
-in an environmentally friendly manner. 
 
-This blog post introduces a method for collecting and incinerating marine waste 
-simultaneously using an incinerator that achieves excellent incineration performance 
-despite a certain moisture content.
+This blog post introduces a method for collecting and incinerating marine debris using large vessels.
+This method also utilizes an incinerator, which exhibits excellent incineration performance 
+despite its moisture content, to collect, sort, dehydrate, and incinerate large quantities of marine debris.
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/images/marine-vessel-01.png' | relative_url }}"
