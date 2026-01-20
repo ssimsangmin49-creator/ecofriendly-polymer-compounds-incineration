@@ -7,9 +7,9 @@ label: "AZADrg Blog (Application report-04)"
 
 ## 1. Introduction
 
-This blog post introduces a method for collecting and incinerating marine debris using large vessels.
+This blog post introduces a method for collecting and incinerating marine waste using large vessels.
 This method also utilizes an incinerator, which exhibits excellent incineration performance 
-despite its moisture content, to collect, sort, dehydrate, and incinerate large quantities of marine debris.
+despite its moisture content, to collect, sort, dehydrate, and incinerate large quantities of marine waste.
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/images/ship-large.png' | relative_url }}"
@@ -28,14 +28,13 @@ despite its moisture content, to collect, sort, dehydrate, and incinerate large 
 
 ## 2. Key Factors
 
-- Types of marine waste that can be incinerated
+- Separation, deodorization, and crushing of marine debris
 - Eco-friendly incineration of high-moisture marine waste
 - Incinerator Controls
 
-## 3. Types of marine waste that can be incinerated
+## 3.  Separation, deodorization, and crushing of marine debris
 
 <span style="color:#1e40af; font-weight:bold;">
-Simply put, all the waste floating on the ocean can be incinerated, 
-with the exception of things like clogged glass bottles and butane gas canisters.
+Incineration of large quantities of marine debris involves collection, shredding, dehydration, and metal removal.
 </span>
 
