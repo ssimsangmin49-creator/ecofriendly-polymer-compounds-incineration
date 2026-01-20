@@ -49,6 +49,10 @@ into the upper part of the incinerator, and can sufficiently incinerate
 marine waste with a high moisture content (waste with a moisture content of about 80%) 
 after a slight dehydration process.
 
+Most polymer compounds have very low water content. Therefore, simply shaking off the moisture 
+on the surface of the collected polymer compounds will suffice for incineration 
+in this type of incinerator. 
+In this area, it is also crucial to expand quantitative data after implementation.
 
 
 
