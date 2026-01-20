@@ -54,5 +54,19 @@ on the surface of the collected polymer compounds will suffice for incineration
 in this type of incinerator. 
 In this area, it is also crucial to expand quantitative data after implementation.
 
+<figure style="text-align:center;">
+  <img src="{{ '/assets/images/smallboat-layout.png' | relative_url }}"
+       alt="Incinerator layout on a small ship"
+        style="max-width:700px; width:100%;">
+  <figcaption style="
+    margin-top:0.75rem;
+    font-size:0.9rem;
+    color:#9ca3af;
+    ">
+  Figure 2. Incinerator layout on a small ship
+  </figcaption>
+</figure>
+
+
 
 
