@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Central Rod"
-date: 2026-01-16
+permalink: central-rod
 label: "AZADrg blog(Tech report-02)"
 ---
 
