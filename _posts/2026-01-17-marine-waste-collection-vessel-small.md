@@ -67,6 +67,7 @@ In this area, it is also crucial to expand quantitative data after implementatio
   </figcaption>
 </figure>
 
-
+Considering the ocean environment, a bag filter-type dust collector was installed. 
+This area also requires data collection on the results of field tests to improve its structure and performance.
 
 
