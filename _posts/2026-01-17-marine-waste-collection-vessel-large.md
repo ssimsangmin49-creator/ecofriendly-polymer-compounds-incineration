@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Applicable to marine waste collection vessels"
+title: "Applicable to marine waste collection vessels-2"
 permalink: /marine-waste-collection-vessel-small/
 label: "AZADrg Blog (Application report-04)"
 ---
