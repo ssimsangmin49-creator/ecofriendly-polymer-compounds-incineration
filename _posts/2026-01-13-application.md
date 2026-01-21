@@ -14,7 +14,7 @@ this incineration technology in low-income countries.
 
 - Composition of the incinerator body using refractory bricks
 - Use of solar energy
-- Use of hot water
+- No need lid. Open incineration ia possible
 
 ## 3. Composition of the incinerator body using refractory bricks
 
@@ -73,6 +73,20 @@ this incineration technology in low-income countries.
   </figcaption>
 </figure>
 
+## No need lid. Open incineration is possible
+
+The incineration of waste by the structure of this incinerator can be operated 
+by simply loading the waste from the top without installing an incinerator lid 
+in low-income countries where administrative regulations such as dust collection facilities are not enforced.
+
+Emission air quality tests were completed on the air emitted during the incineration process 
+without the use of post-incineration equipment, including additional dust collection systems. 
+
+The results indicate that open incineration is feasible unless the addition of dust collection 
+and post-incineration equipment is administratively mandated.
+
+However, what is required here is to test the air quality from uncovered incinerators 
+in more locations and in different environments and to accumulate the results.
 
 ### Note
 
