@@ -73,7 +73,7 @@ this incineration technology in low-income countries.
   </figcaption>
 </figure>
 
-## No need lid. Open incineration is possible
+## 4. No need lid. Open incineration is possible
 
 The incineration of waste by the structure of this incinerator can be operated 
 by simply loading the waste from the top without installing an incinerator lid 
