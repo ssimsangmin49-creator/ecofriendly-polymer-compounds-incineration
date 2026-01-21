@@ -58,10 +58,18 @@ Unlike incinerators that typically require a secondary chamber, this incinerator
 both combustion and incineration processes simultaneously within a single incinerator, 
 eliminating the need for a separate secondary chamber.
 
-## 6. Recycling of incineration heat
+## 6. Complete Combustion at High Temperatures
 
-The heat generated during incineration can be used to produce hot air, hot water, 
-or to power a steam generator. This aspect will be covered separately.
+The high temperatures generated during incineration (800-1200 degrees Celsius) 
+do not emit environmentally hazardous substances.
+
+Complete combustion requires not only sufficiently high temperatures, but also sufficient time 
+for combustion gases to remain in the high-temperature region (typically more than 2 seconds), 
+and turbulence to ensure smooth mixing of fuel and oxygen. 
+
+When these three conditions(3T's) are met simultaneously, complete removal of hazardous substances 
+is possible without black smoke or unpleasant odors.
+
 
 ### Note
 
