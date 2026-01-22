@@ -72,7 +72,7 @@ The Push & Pull type waste inlet on the side of the incinerator is operated by t
   </figcaption>
 </figure>
 
-## Control system, dust collection, etc
+## 5. Control system, dust collection, etc
 
 Controlling multiple incinerators connected in parallel on large vessels involves 
 a combination of individual incinerator control and overall system control, 
