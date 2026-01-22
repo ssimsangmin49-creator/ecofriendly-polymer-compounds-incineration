@@ -74,15 +74,39 @@ They are mainly formed through:
 The most critical condition for PCDD/F formation is not high temperature itself,
 but uncontrolled cooling after combustion.
 
-3-2-2 Design Philosophy of the Present System
+### 3-3 Design Philosophy of the Present System
 
 The incineration system discussed here follows three guiding principles:  
 - a. Sufficient thermal destruction  
 - b. Stable oxygen-rich environment  
 - c. Minimized residence time in the de novo synthesis window  
 - d. Importantly, these principles are achieved without relying on:  
-    aa. Bag filters
-    bb. Activated carbon injection
-    cc. Catalytic reactors
+    aa. Bag filters  
+    bb. Activated carbon injection  
+    cc. Catalytic reactors  
 
+### 3-4 Key Suppression Mechanisms  
+
+#### 3-4-1 High-Temperature Core Combustion
+
+- Combustion occurs at temperatures sufficient to thermally decompose PCDD/F precursors.  
+- Organic chlorine compounds are cracked before dioxin structures can stabilize.  
+- Implication: Dioxins are destroyed faster than they can form.
+
+#### 3-4-2 Controlled Residence Time  
+
+- Gas residence time in the high-temperature zone is long enough for complete oxidation.  
+- No stagnation zones or cold pockets exist inside the combustion chamber.
+- Implication: Prevents survival of partially oxidized aromatic compounds.
   
+#### 3-4-3 Oxygen-Rich and Well-Mixed Flow  
+
+- Excess oxygen is maintained throughout the combustion process.  
+- Turbulent mixing prevents localized oxygen-deficient regions.  
+- Implication: Suppresses incomplete combustion pathways linked to dioxin precursors.
+
+#### 3-4-4 Rapid Transition Through the De Novo Window  
+
+- After thermal destruction, flue gas passes quickly through the 200–450 °C range.
+- No extended contact with fly ash or catalytic metal surfaces occurs.  
+- Implication: De novo synthesis is kinetically suppressed.
