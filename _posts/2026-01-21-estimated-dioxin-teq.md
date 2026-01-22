@@ -152,4 +152,13 @@ not solely a gas-cleaning problem.
 The present system demonstrates that low-complexity incineration, when properly designed, 
 can achieve emission characteristics comparable to more complex systems—without relying on post-treatment devices.
 
+### Note
+
+<span style="color:#1e40af; font-weight:bold;">
+This document is provided for technical explanation and research collaboration purposes only.
+It does not constitute a commercial claim or a regulatory certification.
+</span>
+
+
+
 
