@@ -110,3 +110,46 @@ The incineration system discussed here follows three guiding principles:
 - After thermal destruction, flue gas passes quickly through the 200–450 °C range.
 - No extended contact with fly ash or catalytic metal surfaces occurs.  
 - Implication: De novo synthesis is kinetically suppressed.
+
+
+### 3-5 Measurement Context  
+
+#### 3-5-1 Measurement configuration  
+
+- Sampling location: stack gas at incinerator outlet  
+- Measurement protocol: SGS standard test methods  
+- Configuration: no additional post-treatment devices assumed  
+- This ensures that measured values represent intrinsic combustion performance,  
+  not downstream removal efficiency.  
+
+### 3-6 Implications for Small-Scale and Distributed Systems  
+
+Conventional wisdom often assumes that strict dioxin control requires:  
+- Large-scale facilities  
+- Complex and expensive gas-cleaning systems
+  
+However, the mechanisms discussed here indicate that:  
+Properly controlled combustion conditions can significantly suppress dioxin formation at the source.  
+
+This has implications for:  
+- Decentralized waste treatment  
+- Resource-limited regions  
+- Non-commercial and open-technology deployment
+
+### 3-7 Limitations and Future Work  
+
+Current measurements are mass-based; formal regulatory comparison requires congener-specific TEQ analysis.  
+
+Further work should include:  
+- Congener profiling  
+- Repeat measurements under varied waste compositions
+  
+### 3-8 Conclusion
+
+Dioxin and furan suppression is fundamentally a combustion-control problem, 
+not solely a gas-cleaning problem.
+
+The present system demonstrates that low-complexity incineration, when properly designed, 
+can achieve emission characteristics comparable to more complex systems—without relying on post-treatment devices.
+
+
