@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Applicable to marine waste collection vessels-2"
-permalink: /marine-waste-collection-vessel-large/
-label: "AZADrg Blog (Application report-04)"
+title: "Estimated Dioxin and Furan Emissions (TEQ-based, 7% O₂ Reference)"
+permalink: /estimated-dioxine-teqe/
+label: "AZADrg Blog (Analysis report-02)"
 ---
 
 ## 1. Introduction
