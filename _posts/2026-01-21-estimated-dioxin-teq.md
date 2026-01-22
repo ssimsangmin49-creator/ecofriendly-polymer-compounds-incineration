@@ -12,7 +12,7 @@ Preliminary TEQ reconstruction based on SGS stack-gas measurements
 > No additional post-treatment devices (filters, scrubbers, catalysts) were assumed
 > in the measurement configuration.
 
-## Comparison of Dioxin/Furan Emissions (TEQ-based)
+## 1. Comparison of Dioxin/Furan Emissions (TEQ-based)
 
 Regulatory limits in both the EU and the US are defined using TEQ (toxic equivalency).
 The table below shows typical TEQ ranges reported for commercial incineration systems,
@@ -29,9 +29,18 @@ for contextual comparison with this project.
 **Regulatory reference:**  
 EU and US emission limit value: **0.1 ng-TEQ/Nm³**
 
-## 1. Introduction
 
-This blog post introduces a method for collecting and incinerating marine waste using large vessels.
-This method also utilizes an incinerator, which exhibits excellent incineration performance 
-despite its moisture content, to collect, sort, dehydrate, and incinerate large quantities of marine waste.
+## 2. Estimated TEQ Reconstruction (7% O₂ Reference)
+
+Based on typical congener distributions observed in controlled combustion systems,
+a conservative WHO-TEF-based estimation was applied for preliminary assessment only.
+
+| Parameter | Estimated TEQ (ng-TEQ/Nm³) |
+|---|---:|
+| Subtotal CDD (TEQ) | 0.024 |
+| Subtotal CDF (TEQ) | 0.033 |
+| **Total Dioxin/Furan (TEQ)** | **≈ 0.057** |
+
+> This TEQ value is provided for explanatory purposes only.
+> Formal regulatory comparison requires congener-specific TEQ calculation.
 
