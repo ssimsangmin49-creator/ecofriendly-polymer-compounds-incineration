@@ -4,6 +4,7 @@ title: "Estimated Dioxin and Furan Emissions (TEQ-based, 7% O₂ Reference)"
 permalink: /estimated-dioxine-teqe/
 label: "AZADrg Blog (Analysis report-02)"
 ---
+Preliminary TEQ reconstruction based on SGS stack-gas measurements
 
 ## 1. Introduction
 
