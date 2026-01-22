@@ -60,13 +60,13 @@ by stack-gas measurements conducted using SGS standard methods.
 
 ### 3-2. Background: Why Dioxins Form in Incineration
 
-3-2-1 Formation pathways
+#### 3-2-1 Formation pathways
 
 Dioxins and furans (PCDD/F) are not primary combustion products.
 They are mainly formed through:  
 - a. Incomplete combustion  
 - b. De novo synthesis during cooling (200–450 °C range)  
-- c. Presence of:
+- c. Presence of:  
     aa. Chlorine  
     bb. Organic carbon  
     cc. Metal catalysts (e.g. Cu)  
@@ -76,11 +76,13 @@ but uncontrolled cooling after combustion.
 
 3-2-2 Design Philosophy of the Present System
 
-The incineration system discussed here follows three guiding principles:
-a. Sufficient thermal destruction
-b. Stable oxygen-rich environment
-c. Minimized residence time in the de novo synthesis window
-d. Importantly, these principles are achieved without relying on:
-   aa. Bag filters
-   bb. Activated carbon injection
-   cc. Catalytic reactors
+The incineration system discussed here follows three guiding principles:  
+- a. Sufficient thermal destruction  
+- b. Stable oxygen-rich environment  
+- c. Minimized residence time in the de novo synthesis window  
+- d. Importantly, these principles are achieved without relying on:  
+    aa. Bag filters
+    bb. Activated carbon injection
+    cc. Catalytic reactors
+
+  
