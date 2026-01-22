@@ -98,4 +98,12 @@ the upper part of the incinerator needs to be sealed or have an opening and clos
   </figcaption>
 </figure>
 
+---
+**Document status**
+- Stage: Concept 
+- Last updated: 2026-01-19
+- Looking for: peer review 
+---
+
+
 
