@@ -6,11 +6,11 @@ label: "AZADrg Blog (Analysis report-02)"
 ---
 Preliminary TEQ reconstruction based on SGS stack-gas measurements
 
-> **Measurement basis**  
-> All measurements were conducted directly on stack gas at the incinerator outlet,
-> using SGS standard test methods.  
-> No additional post-treatment devices (filters, scrubbers, catalysts) were assumed
-> in the measurement configuration.
+ **Measurement basis**  
+- All measurements were conducted directly on stack gas at the incinerator outlet,  
+  using SGS standard test methods.  
+- No additional post-treatment devices (filters, scrubbers, catalysts) were assumed  
+  in the measurement configuration.
 
 ## 1. Comparison of Dioxin/Furan Emissions (TEQ-based)
 
