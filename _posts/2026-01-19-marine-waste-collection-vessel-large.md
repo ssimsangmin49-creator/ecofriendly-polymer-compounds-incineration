@@ -72,4 +72,30 @@ The Push & Pull type waste inlet on the side of the incinerator is operated by t
   </figcaption>
 </figure>
 
+## Control system, dust collection, etc
+
+Controlling multiple incinerators connected in parallel on large vessels involves 
+a combination of individual incinerator control and overall system control, 
+including dust collection equipment. This area requires system development for field testing.
+
+On a vessel with a structure like the one shown in the image, it would be possible 
+to install dust collection equipment on the deck structure, connected to the chimneys on both sides. 
+This also requires expert design and field testing.
+
+Of course, the image shows that the upper part of the incinerator is open, but in operation, 
+the upper part of the incinerator needs to be sealed or have an opening and closing structure.
+
+<figure style="text-align:center;">
+  <img src="{{ '/assets/images/largeship-chimney.png' | relative_url }}"
+       alt="Large ship chimney structure"
+        style="max-width:700px; width:100%;">
+  <figcaption style="
+    margin-top:0.75rem;
+    font-size:0.9rem;
+    color:#9ca3af;
+    ">
+  Figure 4. Dust collection facility using chimneys on both sides of the upper part of the incinerator
+  </figcaption>
+</figure>
+
 
