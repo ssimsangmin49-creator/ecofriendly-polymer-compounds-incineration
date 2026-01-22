@@ -66,7 +66,7 @@ Dioxins and furans (PCDD/F) are not primary combustion products.
 They are mainly formed through:  
 - a. Incomplete combustion  
 - b. De novo synthesis during cooling (200–450 °C range)  
-- c. Presence of:  
+- c. Presence of:
     aa. Chlorine  
     bb. Organic carbon  
     cc. Metal catalysts (e.g. Cu)  
