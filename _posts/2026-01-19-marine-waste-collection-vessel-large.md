@@ -72,7 +72,26 @@ The Push & Pull type waste inlet on the side of the incinerator is operated by t
   </figcaption>
 </figure>
 
-## 5. Control system, dust collection, etc
+## 5. Incineration of wet waste using a rotary stirrer
+
+Marine waste incineration can be designed with a rotating stirrer installed at the bottom of the incinerator, 
+allowing the incinerator ash to be automatically discharged. 
+In particular, the use of a rotating stirrer is an excellent method for evenly incinerating wet marine waste.
+
+<figure style="text-align:center;">
+  <img src="{{ '/assets/images/stirrer.png' | relative_url }}"
+       alt="Use a rotary stirrer"
+        style="max-width:700px; width:100%;">
+  <figcaption style="
+    margin-top:0.75rem;
+    font-size:0.9rem;
+    color:#9ca3af;
+    ">
+  Figure 4. Image of a rotary stirrer and automatic ash discharge device inside the incinerator
+  </figcaption>
+</figure>
+
+## 6. Control system, dust collection, etc
 
 Controlling multiple incinerators connected in parallel on large vessels involves 
 a combination of individual incinerator control and overall system control, 
@@ -94,14 +113,14 @@ the upper part of the incinerator needs to be sealed or have an opening and clos
     font-size:0.9rem;
     color:#9ca3af;
     ">
-  Figure 4. Dust collection facility using chimneys on both sides of the upper part of the incinerator
+  Figure 5. Dust collection facility using chimneys on both sides of the upper part of the incinerator
   </figcaption>
 </figure>
 
 ---
 **Document status**
 - Stage: Concept 
-- Last updated: 2026-01-19
+- Last updated: 2026-01-25
 - Looking for: peer review 
 ---
 
