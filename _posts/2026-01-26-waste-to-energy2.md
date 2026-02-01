@@ -15,6 +15,10 @@ This paper describes a WTE model utilizing a heat exchanger.
 First, this model operates two sets of incinerators, each representing a set of two units, 
 depending on the desired power generation capacity.
 
+<a href="/assets/images/wte-hx.png">
+  <img src="/assets/images/wte-hx.png" width="500">
+</a>
+
 <figure style="text-align:center;">
   <img src="{{ '/assets/images/wte-hx.png' | relative_url }}"
        alt="WTE image using heat exchanger"
@@ -28,7 +32,4 @@ depending on the desired power generation capacity.
   </figcaption>
 </figure>
 
-<a href="/assets/images/wte-hx.png">
-  <img src="/assets/images/wte-hx.png" width="500">
-</a>
 
