@@ -47,3 +47,7 @@ main, article {
 .lightbox:target {
   display: flex;
 }
+
+.video-wrap { max-width: 900px; margin: 16px auto; }
+.video-wrap video { width: 100%; height: auto; border-radius: 12px; }
+
