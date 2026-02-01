@@ -15,17 +15,24 @@ simultaneously using an incinerator that achieves excellent incineration perform
 despite a certain moisture content.
 
 <figure style="text-align:center;">
-  <img src="{{ '/assets/images/marine-vessel-01.png' | relative_url }}"
-       alt="Marine waste collection & incineration vessel"
-        style="max-width:700px; width:100%;">
+  <a href="#wte-hx">
+    <img src="{{ '/assets/images/marine-vessel-01.png' | relative_url }}"
+         alt="Marine waste collection & incineration vessel"
+         style="max-width:700px; width:100%; cursor: zoom-in;">
+  </a>
+
   <figcaption style="
     margin-top:0.75rem;
     font-size:0.9rem;
     color:#9ca3af;
-    ">
-  Figure 1. Overall concept of Marine waste collection & incineration vessel
+  ">
+    Figure 1. Overall concept of Marine waste collection & incineration vessel
   </figcaption>
 </figure>
+
+<a href="#_" class="lightbox" id="wte-hx">
+  <img src="{{ '/assets/images/marine-vessel-01.png' | relative_url }}">
+</a>
 
 
 
