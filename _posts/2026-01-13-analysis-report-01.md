@@ -71,6 +71,12 @@ When these three conditions(3T's) are met simultaneously, complete removal of ha
 is possible without black smoke or unpleasant odors.
 
 
+<video controls playsinline preload="metadata" style="max-width:100%; height:auto;">
+  <source src="/assets/video/flame.mp4" type="video/mp4">
+  브라우저가 video 태그를 지원하지 않습니다.
+</video>
+
+
 ### Note
 
 <span style="color:#1e40af; font-weight:bold;">
