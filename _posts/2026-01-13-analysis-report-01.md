@@ -74,9 +74,10 @@ is possible without black smoke or unpleasant odors.
 ## 7. Flame of complete combustion
 
 <div class="video-wrap">
-  <video controls playsinline preload="metadata">
-    <source src="/assets/video/flame.mp4" type="video/mp4">
-  </video>
+ <video controls playsinline preload="metadata" style="max-width:100%; height:auto;">
+  <source src="{{ '/assets/video/flame.mp4' | relative_url }}" type="video/mp4">
+</video>
+
 </div>
 
 
