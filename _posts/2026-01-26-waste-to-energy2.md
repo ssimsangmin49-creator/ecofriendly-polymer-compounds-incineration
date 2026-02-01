@@ -27,3 +27,8 @@ depending on the desired power generation capacity.
   Figure 1. WTE image using heat exchanger
   </figcaption>
 </figure>
+
+<a href="/assets/images/wte-hx.png">
+  <img src="/assets/images/wte-hx.png" width="500">
+</a>
+
