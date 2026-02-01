@@ -12,17 +12,24 @@ This method also utilizes an incinerator, which exhibits excellent incineration 
 despite its moisture content, to collect, sort, dehydrate, and incinerate large quantities of marine waste.
 
 <figure style="text-align:center;">
-  <img src="{{ '/assets/images/ship-large.png' | relative_url }}"
-       alt="Marine waste collection & incineration large vessel"
-        style="max-width:700px; width:100%;">
+  <a href="#wte-hx">
+    <img src="{{ '/assets/images/ship-large.png' | relative_url }}"
+         alt="Marine waste collection & incineration large vessel"
+         style="max-width:700px; width:100%; cursor: zoom-in;">
+  </a>
+
   <figcaption style="
     margin-top:0.75rem;
     font-size:0.9rem;
     color:#9ca3af;
-    ">
-  Figure 1. Collection and incineration of marine waste using large vessels
+  ">
+    Figure 1. Collection and incineration of marine waste using large vessel
   </figcaption>
 </figure>
+
+<a href="#_" class="lightbox" id="wte-hx">
+  <img src="{{ '/assets/images/ship-large.png' | relative_url }}">
+</a>
 
 
 
