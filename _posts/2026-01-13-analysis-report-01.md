@@ -67,7 +67,7 @@ When these three conditions(3T's) are met simultaneously, complete removal of ha
 is possible without black smoke or unpleasant odors.
 
 
-## 7. Flame of complete combustion
+## 7. Flame of complete oxidation
 
 <div class="video-wrap">
  <video controls playsinline preload="metadata" style="max-width:100%; height:auto;">
