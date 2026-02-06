@@ -42,7 +42,7 @@ this thermal treatment technology in low-income countries.
 - Unlike the image, each stage must be loaded at a different angle
 
 <figure style="text-align:center;">
-  <img src="{{ '/assets/images/1000mm-concept.png' | relative_url }}"
+  <img src="{{ '/assets/images/1000mm.png' | relative_url }}"
        alt="The incinerator body using refractory bricks"
         style="max-width:700px; width:100%;">
   <figcaption style="
