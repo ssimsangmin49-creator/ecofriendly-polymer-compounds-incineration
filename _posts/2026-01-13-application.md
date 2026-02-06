@@ -91,8 +91,7 @@ in more locations and in different environments and to accumulate the results.
 ### Note
 
 <span style="color:#1e40af; font-weight:bold;">
-<p>
-The posts on this blog will be continuously updated.
-</p>
+The posts on this blog will be continuously updated.  
+  
 Last update: 2026-02-06
 </span>
