@@ -24,7 +24,7 @@ this thermal treatment technology in low-income countries.
 - Minimum Required Quantity: 560PCS 
 
 <figure style="text-align:center;">
-  <img src="{{ '/assets/images/refractory-brick.png' | relative_url }}"
+  <img src="{{ '/assets/images/brick.png' | relative_url }}"
        alt="The chamber body using refractory bricks"
         style="max-width:700px; width:100%;">
   <figcaption style="
