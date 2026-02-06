@@ -8,35 +8,35 @@ label: "AZADrg Blog (Application report-01)"
 ## 1. Introduction
 
 This blog post presents a relatively inexpensive and convenient way to utilize 
-this incineration technology in low-income countries.
+this thermal treatment technology in low-income countries.
 
 ## 2. Key Factors
 
-- Composition of the incinerator body using refractory bricks
+- Composition of the chamber body using refractory bricks
 - Use of solar energy
-- No need lid. Open incineration ia possible
+- No need lid. Open thermal treatment is possible
 
-## 3. Composition of the incinerator body using refractory bricks
+## 3. Composition of the chamber body using refractory bricks
 
 ### 3-a. Refractory Brick Manufacturing
 
-- Specifications of the Manufacturing Incinerator: Diameter: 1000mm, Height: 1300mm
+- Specifications of the Manufacturing Chamber: Diameter: 1000mm, Height: 1300mm
 - Minimum Required Quantity: 560PCS 
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/images/refractory-brick.png' | relative_url }}"
-       alt="The incinerator body using refractory bricks"
+       alt="The chamber body using refractory bricks"
         style="max-width:700px; width:100%;">
   <figcaption style="
     margin-top:0.75rem;
     font-size:0.9rem;
     color:#9ca3af;
     ">
-  Figure 1. Basic refractory bricks for manufacturing a 1000mm incinerator
+  Figure 1. Basic refractory bricks for manufacturing a 1000mm thermal treatment chamber
   </figcaption>
 </figure>
 
-### 3-b. Conceptual diagram of a 1000mm incinerator using refractory bricks
+### 3-b. Conceptual diagram of a 1000mm chamber using refractory bricks
 
 - The number of refractory bricks loaded is 20
 - Unlike the image, each stage must be loaded at a different angle
@@ -50,12 +50,12 @@ this incineration technology in low-income countries.
     font-size:0.9rem;
     color:#9ca3af;
     ">
-  Figure 2. Conceptual diagram of a 1000mm incinerator using refractory bricks
+  Figure 2. Conceptual diagram of a 1000mm chamber using refractory bricks
   </figcaption>
 </figure>
 
 
-### 3-c. Conceptual diagram of a 1000mm incinerator using Solar pannel & Dust collxctor
+### 3-c. Conceptual diagram of a 1000mm chamber using Solar pannel & Dust collxctor
 
 - This image is a concept image. Detailed data on solar panels and dust collectors
   must be compiled from accurate data on related technologies.
@@ -69,27 +69,28 @@ this incineration technology in low-income countries.
     font-size:0.9rem;
     color:#9ca3af;
     ">
-  Figure 3. Conceptual diagram of a 1000mm incinerator using Solar pannel & Dust collector
+  Figure 3. Conceptual diagram of a 1000mm chamber using Solar pannel & Dust collector
   </figcaption>
 </figure>
 
-## 4. No need lid. Open incineration is possible
+## 4. No need lid. Open thermal treatment is possible
 
-The incineration of waste by the structure of this incinerator can be operated 
-by simply loading the waste from the top without installing an incinerator lid 
+The thermal treatment of waste by the structure of this chamber can be operated 
+by simply loading the waste from the top without installing an chamber lid 
 in low-income countries where administrative regulations such as dust collection facilities are not enforced.
 
-Emission air quality tests were completed on the air emitted during the incineration process 
-without the use of post-incineration equipment, including additional dust collection systems. 
+Emission air quality tests were completed on the air emitted during the thermal treatment process 
+without the use of post-thermal treatment equipment, including additional dust collection systems. 
 
-The results indicate that open incineration is feasible unless the addition of dust collection 
-and post-incineration equipment is administratively mandated.
+The results indicate that open thermal treatment is feasible unless the addition of dust collection 
+and post-thermal treatment equipment is administratively mandated.
 
-However, what is required here is to test the air quality from uncovered incinerators 
+However, what is required here is to test the air quality from uncovered thermal treatment chambers 
 in more locations and in different environments and to accumulate the results.
 
 ### Note
 
 <span style="color:#1e40af; font-weight:bold;">
 The posts on this blog will be continuously updated.
+Last update: 2026-02-06
 </span>
