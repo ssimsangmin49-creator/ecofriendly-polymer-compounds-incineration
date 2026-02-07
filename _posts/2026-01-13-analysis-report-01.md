@@ -82,4 +82,6 @@ is possible without black smoke or unpleasant odors.
 <span style="color:#1e40af; font-weight:bold;">
 The posts on this blog will be continuously updated.
 </span>
+<p>
 Last update: 2026-02-05
+</p>
