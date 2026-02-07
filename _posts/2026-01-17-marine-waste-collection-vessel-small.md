@@ -1,23 +1,21 @@
 ---
 layout: post
-title: "Applicable to marine waste collection vessels-1"
+title: "Applicable to marine waste collection vessels(01)"
 permalink: /marine-waste-collection-vessel-small/
 label: "AZADrg Blog (Application report-03)"
 ---
 
 ## 1. Introduction
 
-This incineration technology can simultaneously collect and incinerate marine waste
-in an environmentally friendly manner. 
+This technology can collect and thermally treat marine waste in an environmentally friendly manner.
 
-This blog post introduces a method for collecting and incinerating marine waste 
-simultaneously using an incinerator that achieves excellent incineration performance 
-despite a certain moisture content.
+This blog post introduces a method for collecting and thermal-treating marine waste. 
+This method utilizes a chamber that exhibits excellent heat treatment performance despite its moisture content.
 
 <figure style="text-align:center;">
   <a href="#wte-hx">
     <img src="{{ '/assets/images/marine-vessel-01.png' | relative_url }}"
-         alt="Marine waste collection & incineration vessel"
+         alt="Marine waste collection & thermal treatment vessel"
          style="max-width:700px; width:100%; cursor: zoom-in;">
   </a>
 
@@ -26,7 +24,7 @@ despite a certain moisture content.
     font-size:0.9rem;
     color:#9ca3af;
   ">
-    Figure 1. Overall concept of Marine waste collection & incineration vessel
+    Figure 1. Overall concept of Marine waste collection & thermal treatment vessel
   </figcaption>
 </figure>
 
@@ -38,27 +36,27 @@ despite a certain moisture content.
 
 ## 2. Key Factors
 
-- Types of marine waste that can be incinerated
-- Eco-friendly incineration of high-moisture marine waste
-- Incinerator Controls
+- Types of thermal-treatable marine wastes.
+- Eco-friendly thermal treatment of high-moisture marine waste
+- Chamber Controls
 
-## 3. Types of marine waste that can be incinerated
+## 3. Types of thermal-treatable marine wastes
 
 <span style="color:#1e40af; font-weight:bold;">
-Simply put, all the waste floating on the ocean can be incinerated, 
-with the exception of things like clogged glass bottles and butane gas canisters.
+Simply put, any waste floating in the ocean can be treated using this thermal treatment technology. 
+The only exceptions are things like clogged glass bottles and butane gas canisters.
 </span>
 
-## 4. Eco-friendly incineration of high-moisture marine waste
+## 4. Eco-friendly thermal treatment of high-moisture marine waste
 
-Unlike batch incinerators, this incinerator can continuously feed waste 
-into the upper part of the incinerator, and can sufficiently incinerate 
+Unlike batch incinerators, this method can continuously feed waste 
+into the upper part of the chamber, and can sufficiently thermal treat
 marine waste with a high moisture content (waste with a moisture content of about 80%) 
 after a slight dehydration process.
 
-Most polymer compounds have very low water content. Therefore, simply shaking off the moisture 
-on the surface of the collected polymer compounds will suffice for incineration 
-in this type of incinerator. 
+Most systhetic polymer compounds waste have very low water content. Therefore, simply shaking off the moisture 
+on the surface of the collected synthetic polymer compounds waste will suffice for thermal treatment
+in this type of chamber. 
 In this area, it is also crucial to expand quantitative data after implementation.
 
 <figure style="text-align:center;">
@@ -70,16 +68,16 @@ In this area, it is also crucial to expand quantitative data after implementatio
     font-size:0.9rem;
     color:#9ca3af;
     ">
-  Figure 2. Incinerator layout on a small ship
+  Figure 2. Chamber units layout on a small ship
   </figcaption>
 </figure>
 
 Considering the ocean environment, a bag filter-type dust collector was installed. 
 This area also requires data collection on the results of field tests to improve its structure and performance.
 
-## Incinerator controls
+## Chamber controls
 
-Control of the operation of each incinerator is possible through the control box on the deck 
+Control of the operation of each chamber is possible through the control box on the deck 
 and the control system installed in the cabin, allowing for independent or mixed operation.
 
 <figure style="text-align:center;">
@@ -98,7 +96,7 @@ and the control system installed in the cabin, allowing for independent or mixed
 ---
 **Document status**
 - Stage: Concept 
-- Last updated: 2026-01-20
+- Last updated: 2026-02-07
 - Looking for: peer review 
 ---
 
