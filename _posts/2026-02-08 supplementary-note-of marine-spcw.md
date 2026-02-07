@@ -5,14 +5,14 @@ permalink: /supplementary-note-of-marine-spcw/
 label: "AZADrg Blog (Application report-05)"
 ---
 
-Supplementary Note: Continuous Oxidation of Marine SPCW
+## Supplementary Note: Continuous Oxidation of Marine SPCW
 
 This section provides additional technical clarification to support the core concept already presented.
 
-Why Marine SPCW Must Be Evaluated Differently
+### Why Marine SPCW Must Be Evaluated Differently
 
 Marine synthetic polymer compounds waste (SPCW) is fundamentally different from dry, land-based plastic waste.
-It is consistently exposed to seawater, salt, and biological fouling, making residual moisture unavoidable even after collection.
+It is consistently exposed to seawater, salt, and biological fouling, making **residual moisture unavoidable** even after collection.
 
 For this reason, performance should not be judged against dry-feed assumptions.
 Instead, marine SPCW must be evaluated under realistic dewatered conditions.
