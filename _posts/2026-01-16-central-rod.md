@@ -11,10 +11,10 @@ About the fabrication and installation of the Central Rod...
 
 This section covers the manufacturing and installation of the central rod. 
 First, it's important to note that the central rod is closely related to 
-the diameter of the incinerator. 
+the diameter of the chamber. 
 
 Therefore, the diameter, length, and perforation steps of the central rod vary 
-depending on the size of the incinerator.
+depending on the size of the chamber.
 
 ## Key factors
 
@@ -43,7 +43,7 @@ and an air intake at the bottom.
 ### Air nozzle
 
 The air nozzles perforated in each layer can be perforated in two stages, as shown in the image. 
-This is to facilitate heat circulation within the incinerator. 
+This is to facilitate heat circulation within the chamber. 
 Alternatively, the perforation angle of the air nozzles may need to be adjusted.
 
 <figure style="text-align:center;">
@@ -62,9 +62,9 @@ Alternatively, the perforation angle of the air nozzles may need to be adjusted.
 ### Number of air nozzles per stage
 
 The number of air nozzles per stage and their height vary depending on the diameter 
-of the central rod, which varies depending on the size of the incinerator. 
+of the central rod, which varies depending on the size of the chamber. 
 <span style="color:#1e40af; font-weight:bold;">
-This should be standardized through field testing for each incinerator type.
+This should be standardized through field testing for each chamber type.
 </span>
 
 
@@ -91,10 +91,11 @@ the inside of the rod or repair a clogged air nozzle.
 ## Metal material of the central rod
 
 The metal material of the central rod is susceptible to thermal oxidation due to the high temperatures 
-generated during incineration (average temperatures exceeding 850 degrees Celsius). 
+generated during thermal treatment (average temperatures exceeding 850 degrees Celsius). 
 
-Therefore, the pipe must be made of a metal material resistant to thermal oxidation. 
-However, a cost analysis should be conducted to compare this with the use of multiple metal pipes made of general metal.
+Therefore, the pipe must be made of a strong metal material capable of withstanding 
+the high temperatures associated with thermal oxidation. 
+However, a cost analysis must be conducted to compare it to using multiple metal pipes made of conventional metal.
 
 
 ### Note
@@ -102,7 +103,7 @@ However, a cost analysis should be conducted to compare this with the use of mul
 <span style="color:#1e40af; font-weight:bold;">
 The posts on this blog will be continuously updated.
 </span>
-
+Last update: 2026-02-07
 
 
 
