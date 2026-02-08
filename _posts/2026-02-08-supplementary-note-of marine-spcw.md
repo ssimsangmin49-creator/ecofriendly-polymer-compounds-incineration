@@ -98,7 +98,10 @@ The primary purpose is irreversible destruction of persistent synthetic polymers
 
 Any energy reuse should be understood as loss reduction, not waste-to-energy (WTE) optimization.
 
+<span style="color:#1e40af; font-weight:bold;">
 Key Takeaway
+</span>
+
 
 With appropriate pre-treatment and modular chamber design, marine SPCW can be processed continuously toward complete oxidation under realistic moisture conditions.
 
