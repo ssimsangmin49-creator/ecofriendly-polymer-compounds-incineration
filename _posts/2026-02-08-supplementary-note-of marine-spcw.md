@@ -60,8 +60,8 @@ Key elements include:
 - **Continuous feeding** of dewatered SPCW
 - **Multi-stage air injection** through a central rod, forming stable air curtains
 - **Bottom-mounted automatic agitator**, ensuring:
- - prevention of material stagnation
- - repeated exposure of partially oxidized material to high-temperature zones
+  - prevention of material stagnation
+  - repeated exposure of partially oxidized material to high-temperature zones
 
 Residence time is not fixed. It is actively controlled through **feed rate, air nozzle height, and air injection intensity**, allowing stable operation even with residual moisture.
 
