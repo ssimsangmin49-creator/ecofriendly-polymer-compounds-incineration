@@ -61,8 +61,8 @@ Key elements include:
 - **Multi-stage air injection** through a central rod, forming stable air curtains
 - **Bottom-mounted automatic agitator**, ensuring:
 
-$ensp; - prevention of material stagnation
-$ensp; - repeated exposure of partially oxidized material to high-temperature zones
+&nbsp;&nbsp - prevention of material stagnation
+&nbsp;&nbsp - repeated exposure of partially oxidized material to high-temperature zones
 
 Residence time is not fixed. It is actively controlled through **feed rate, air nozzle height, and air injection intensity**, allowing stable operation even with residual moisture.
 
