@@ -19,7 +19,7 @@ Instead, marine SPCW must be evaluated under realistic dewatered conditions.
 
 Based on measured operation:
 
-Dry SPCW (reference condition): ~100% relative oxidation performance
+- **Dry SPCW** (reference condition): ~100% relative oxidation performance
 
 Dewatered marine SPCW: ~70–80%
 
