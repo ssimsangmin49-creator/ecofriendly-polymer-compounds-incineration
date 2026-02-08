@@ -21,57 +21,60 @@ Based on measured operation:
 
 - **Dry SPCW** (reference condition): ~100% relative oxidation performance
 
-Dewatered marine SPCW: ~70–80%
+- **Dewatered marine SPCW: ~70–80%**
 
-Batch-style incineration: <30%
+- **Batch-style incineration:** <30%
 
-Plasma-based systems: operational instability leading to system shutdown
+- **Plasma-based systems:** operational instability leading to system shutdown
 
-The 70–80% range represents the practical upper bound for continuous oxidation of marine SPCW under real operating conditions.
+The **70–80% range represents the practical upper bound** for continuous oxidation of marine SPCW under real operating conditions.
 
-Why Batch Incineration Is Structurally Unsuitable
+
+### Why Batch Incineration Is Structurally Unsuitable
 
 Batch-style incinerators are not compatible with marine SPCW because:
 
-Residual moisture causes rapid thermal quenching during batch charging
+- Residual moisture causes rapid thermal quenching during batch charging
 
-Each batch requires reheating, resulting in cumulative energy loss
+- Each batch requires reheating, resulting in cumulative energy loss
 
-Feed variability cannot be corrected once a batch cycle begins
+- Feed variability cannot be corrected once a batch cycle begins
 
-Incomplete oxidation compounds across cycles
+- Incomplete oxidation compounds across cycles
 
-As a result, batch systems typically fail to exceed 30% effective oxidation when applied to dewatered marine SPCW.
+As a result, batch systems typically fail to exceed **30% effective oxidation** when applied to dewatered marine SPCW.
 
-Why Plasma Systems Fail in Practice
 
-Although plasma systems can achieve extremely high temperatures in theory, they are operationally fragile in marine applications.
+### Why Plasma Systems Fail in Practice
 
-Moist feed destabilizes plasma arcs
+Although plasma systems can achieve extremely high temperatures in theory, they are **operationally fragile** in marine applications.
 
-Metallic contaminants trigger protective shutdowns
+- Moist feed destabilizes plasma arcs
 
-Power fluctuations lead to system stoppage rather than performance degradation
+- Metallic contaminants trigger protective shutdowns
 
-In practice, plasma systems do not fail gradually — they stop, making them unsuitable for continuous marine operations.
+- Power fluctuations lead to system stoppage rather than performance degradation
 
-Structural Basis for Continuous Oxidation in This System
+In practice, plasma systems do not fail gradually — **they stop**, making them unsuitable for continuous marine operations.
 
-The proposed approach relies on structural control rather than technological complexity.
+
+### Structural Basis for Continuous Oxidation in This System
+
+The proposed approach relies on **structural control rather than technological complexity**.
 
 Key elements include:
 
-Pre-treatment line: shredding, staged dewatering, and electromagnetic metal removal
+- **Pre-treatment line:** shredding, staged dewatering, and electromagnetic metal removal
 
-Continuous feeding of dewatered SPCW
+- **Continuous feeding** of dewatered SPCW
 
-Multi-stage air injection through a central rod, forming stable air curtains
+- **Multi-stage air injection** through a central rod, forming stable air curtains
 
-Bottom-mounted automatic agitator, ensuring:
+- **Bottom-mounted automatic agitator**, ensuring:
 
-prevention of material stagnation
+$nbsp - prevention of material stagnation
 
-repeated exposure of partially oxidized material to high-temperature zones
+$nbsp - repeated exposure of partially oxidized material to high-temperature zones
 
 Residence time is not fixed. It is actively controlled through feed rate, air nozzle height, and air injection intensity, allowing stable operation even with residual moisture.
 
