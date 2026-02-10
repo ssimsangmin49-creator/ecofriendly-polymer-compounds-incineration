@@ -55,7 +55,7 @@ this thermal treatment technology in low-income countries.
 </figure>
 
 
-### 3-c. Conceptual diagram of a 1000mm chamber using Solar pannel & Dust collxctor
+### 3-c. Conceptual diagram of a 1000mm chamber using Solar pannel & Dust collector
 
 - This image is a concept image. Detailed data on solar panels and dust collectors
   must be compiled from accurate data on related technologies.
