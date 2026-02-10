@@ -7,7 +7,7 @@ label: "AZADrg Blog (Analysis report-02)"
 Preliminary TEQ reconstruction based on SGS stack-gas measurements
 
  **Measurement basis**  
-- All measurements were conducted directly on stack gas at the incinerator outlet,  
+- All measurements were conducted directly on stack gas at the chamber outlet,  
   using SGS standard test methods.  
 - No additional post-treatment devices (filters, scrubbers, catalysts) were assumed  
   in the measurement configuration.
@@ -45,14 +45,14 @@ a conservative WHO-TEF-based estimation was applied for preliminary assessment o
 > Formal regulatory comparison requires congener-specific TEQ calculation.
 
 
-## 3. Mechanisms of Dioxin and Furan Suppression in a Low-Complexity Incineration System
+## 3. Mechanisms of Dioxin and Furan Suppression in a Low-Complexity Chamber System
 
 ### 3-1. Abstract
 
-Dioxin and furan formation during waste incineration is strongly influenced by combustion temperature, 
+Dioxin and furan formation during waste thermal treatment is strongly influenced by combustion temperature, 
 residence time, oxygen availability, and post-combustion cooling behavior.
 
-This technical note explains the mechanisms by which a low-complexity, small-scale incineration system 
+This technical note explains the mechanisms by which a low-complexity, small-scale thermal treatment system 
 can suppress dioxin and furan formation without relying on additional post-treatment devices.
 
 The discussion is based on established combustion chemistry and is supported 
@@ -76,7 +76,7 @@ but uncontrolled cooling after combustion.
 
 ### 3-3 Design Philosophy of the Present System
 
-The incineration system discussed here follows three guiding principles:  
+The high-temperature thermal treatment system discussed here follows three guiding principles:  
 - a. Sufficient thermal destruction  
 - b. Stable oxygen-rich environment  
 - c. Minimized residence time in the de novo synthesis window  
@@ -149,7 +149,7 @@ Further work should include:
 Dioxin and furan suppression is fundamentally a combustion-control problem, 
 not solely a gas-cleaning problem.
 
-The present system demonstrates that low-complexity incineration, when properly designed, 
+The present system demonstrates that low-complexity thermal treatment, when properly designed, 
 can achieve emission characteristics comparable to more complex systems—without relying on post-treatment devices.
 
 ### Note
