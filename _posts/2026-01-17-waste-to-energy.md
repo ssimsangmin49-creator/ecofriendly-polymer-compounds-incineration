@@ -14,24 +14,24 @@ a Waste-to-Energy (WTE) facility using the incinerator introduced in this blog.
 However, this guide was written with consideration given the limited capacity 
 of the incinerator being introduced.
 
-First, we will introduce a WTE facility dedicated to polymer compound incineration, 
+First, we will introduce a WTE facility dedicated to SPCW thermal treatment, 
 equipped with a 2MW steam boiler-based power generation facility.
 
 The WTE facility is equipped with all waste input devices and dust collection facilities after the incinerator.
 
 ## Incinerator Size
 
-Incinerators used in WTE for polymer compound incineration should be 
+Chambers used in WTE for SPCW thermal treatment should be 
 at least 1,500 mm in diameter (2,000 or 2,500 mm recommended). 
 Parallel operation of multiple incinerators is recommended. 
 
 This ensures sufficient heat generation. Connecting two or more incinerators 
-in parallel ensures continued operation in the event of one incinerator failure.
+in parallel ensures continued operation in the event of one chamber failure.
 
 ### Parallel connection of incinerators
 
-This blog assumes that two incinerators larger than 1500 mm are connected in parallel 
-to incinerate polymer compounds.
+This blog assumes that two chambers larger than 1500 mm are connected in parallel 
+to thermal treatment of SPCW.
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/images/parallel.png' | relative_url }}"
@@ -73,10 +73,10 @@ to incinerate polymer compounds.
 
 ### Method of feeding waste into an incinerator
 
-- Glass bottles, cans, and stones are sorted and removed from the waste fed into the incinerator,
+- Glass bottles, cans, and stones are sorted and removed from the waste fed into the chamber,
   the waste is crushed in a shredder, and then loaded onto a conveyor belt
 - <span style="color:#1e40af; font-weight:bold;">
-  Glass bottles, cans and rocks are the only materials that cannot be incinerated in this incinerator
+  Glass bottles, cans and rocks are the only materials that cannot be thermal treated in this incinerator
 </span>
 
 <figure style="text-align:center;">
@@ -88,7 +88,7 @@ to incinerate polymer compounds.
     font-size:0.9rem;
     color:#9ca3af;
     ">
-  Figure 3. Feeding waste into an incinerator using a shredder and conveyor
+  Figure 3. Feeding waste into an chamber using a shredder and conveyor
   </figcaption>
 </figure>
 
