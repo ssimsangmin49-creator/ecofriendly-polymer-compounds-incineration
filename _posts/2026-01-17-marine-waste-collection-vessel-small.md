@@ -54,8 +54,8 @@ into the upper part of the chamber, and can sufficiently thermal treat
 marine waste with a high moisture content (waste with a moisture content of about 80%) 
 after a slight dehydration process.
 
-Most systhetic polymer compounds waste have very low water content. Therefore, simply shaking off the moisture 
-on the surface of the collected synthetic polymer compounds waste will suffice for thermal treatment
+Most SPCW have very low water content. Therefore, simply shaking off the moisture 
+on the surface of the collected SPCW will suffice for thermal treatment
 in this type of chamber. 
 In this area, it is also crucial to expand quantitative data after implementation.
 
