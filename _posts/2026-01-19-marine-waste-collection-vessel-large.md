@@ -23,7 +23,7 @@ despite its moisture content, to collect, sort, dehydrate, and thermal treatment
     font-size:0.9rem;
     color:#9ca3af;
   ">
-    Figure 1. Collection and thermaltreatment of marine waste using large vessel
+    Figure 1. Collection and thermal treatment of marine waste using large vessel
   </figcaption>
 </figure>
 
