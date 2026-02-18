@@ -75,3 +75,19 @@ These results should be interpreted as <strong>preliminary stack gas performance
 ## Summary
 
 The emission air quality data set indicates a controlled thermal treatment regime characterized by clean oxidation behavior, low particulate emissions, and very low preliminary TEQ values. The findings support further technical evaluation while emphasizing the importance of contextual interpretation and operational limitations.
+
+<span style="color:#1e40af; font-weight:bold;">
+Combustion State
+</span>
+Stable excess-air oxidation behavior indicated by sustained CO₂ formation, low particulate levels, and zero visible opacity during continuous operation.
+
+<span style="color:#1e40af; font-weight:bold;">
+Temperature Stress
+</span>
+Moderated thermal profile suggested by low NOx levels, implying controlled peak flame temperatures rather than aggressive high-temperature combustion.
+
+<span style="color:#1e40af; font-weight:bold;">
+Toxicity Indicators
+</span>
+Preliminary ultra-low TEQ and controlled acid-gas measurements observed under field-based stack testing conditions.
+
