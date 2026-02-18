@@ -79,15 +79,18 @@ The emission air quality data set indicates a controlled thermal treatment regim
 <span style="color:#1e40af; font-weight:bold;">
 Combustion State
 </span>
+<p>
 Stable excess-air oxidation behavior indicated by sustained CO₂ formation, low particulate levels, and zero visible opacity during continuous operation.
-
+</p>
 <span style="color:#1e40af; font-weight:bold;">
 Temperature Stress
 </span>
+<p>
 Moderated thermal profile suggested by low NOx levels, implying controlled peak flame temperatures rather than aggressive high-temperature combustion.
-
+</p>
 <span style="color:#1e40af; font-weight:bold;">
 Toxicity Indicators
 </span>
+<p>
 Preliminary ultra-low TEQ and controlled acid-gas measurements observed under field-based stack testing conditions.
-
+</p>
