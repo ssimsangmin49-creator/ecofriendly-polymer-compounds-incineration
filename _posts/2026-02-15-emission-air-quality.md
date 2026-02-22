@@ -93,4 +93,17 @@ Toxicity Indicators
 </span>
 <p>
 Preliminary ultra-low TEQ and controlled acid-gas measurements observed under field-based stack testing conditions.
+
+  <figure style="text-align:center;">
+  <img src="{{ '/assets/images/teq-test.jpg' | relative_url }}"
+       alt="Air quality & TEQ test in Thailand"
+        style="max-width:700px; width:100%;">
+  <figcaption style="
+    margin-top:0.75rem;
+    font-size:0.9rem;
+    color:#9ca3af;
+    ">
+  Figure.Field photos for air quality and TEQ measurements
+  </figcaption>
+</figure>
 </p>
