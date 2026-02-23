@@ -7,8 +7,7 @@ label: "AZADrg Blog (Tech report-01)"
 
 ## 1. Introduction
 
-This system achieves complete thermal treatment through a sequential process of high-temperature thermal decomposition,   
-controlled oxidation, and structurally ensured complete oxidation, rather than conventional incineration.
+This system achieves complete thermal treatment through a sequential process of high-temperature thermal decomposition, controlled oxidation, and structurally ensured complete oxidation, rather than conventional incineration.
 
 ## 2. Key Factors
 
@@ -16,11 +15,11 @@ controlled oxidation, and structurally ensured complete oxidation, rather than c
 - Progress of oxidaton and thermal treatment
 - Unnecessary secondary chamber
 
-## 3. Putting Waste into the chamber
+## 3. Putting Waste into the treatment system(chamber)
 
-This chamber requires that waste be fed into the top of the chamber. The ash discharging pot 
-at the bottom of the chamber must remain closed during incineration. 
-This means that if the chamber lid is closed, waste must be fed through a separate waste inlet 
+This system requires that waste be fed into the top of the system. The ash discharging pot 
+at the bottom of the chamber must remain closed during thermal treatment. 
+This means that if the system lid is closed, waste must be fed through a separate waste inlet 
 located in the lid. 
 
 Furthermore, the amount of waste fed during thermal treatment cannot exceed 
@@ -50,8 +49,8 @@ The stable high-temperature environment generated through this process enables c
 
 ## 5. No need for a secondary chamber
 
-Unlike incinerators that typically require a secondary chamber, this chamber handles 
-both oxidation and thermal treatment processes simultaneously within a single chamber, 
+Unlike incinerators that typically require a secondary chamber, this system handles 
+both oxidation and thermal treatment processes simultaneously within a single system(chamber unit), 
 eliminating the need for a separate secondary chamber.
 
 ## 6. Complete Oxidation at High Temperatures
