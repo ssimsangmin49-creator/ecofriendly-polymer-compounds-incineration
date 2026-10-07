@@ -18,24 +18,17 @@ First, we will introduce an EILPT facility dedicated to SPCW thermal treatment,
 with an integrated steam power generation system rated at up to 60 kWe (gross, conceptual).
 The EILPT facility is equipped with all waste input devices and dust collection facilities after the incinerator.
 
+
 ## Required chamber specifications
 
-Chambers used in EILPT for SPCW thermal treatment should be 
-at least 1,500 mm in diameter (2,000 or 2,500 mm recommended). 
-Parallel operation of multiple incinerators is recommended. 
+The proposed EILPT configuration consists of three AFC chambers, each with an internal diameter of 1,500 mm or larger.
 
-This ensures sufficient heat generation. Connecting two or more incinerators 
-in parallel ensures continued operation in the event of one chamber failure.
+Two chambers operate in parallel, while the third serves as a standby unit or undergoes scheduled maintenance.  
 
-### Parallel connection of Chambers
+The chambers are rotated to maintain treatment capacity and minimize operational downtime.
 
-This concept assumes three AFC chambers (1500 mm ID or larger), with two operating continuously  
-and one available for scheduled maintenance or standby.  
-
-The chambers are operated in rotation to minimize downtime and maintain continuous SPCW treatment.  
-
-The steam power generation system is conceptually configured for modular operation  
-and maintenance flexibility during equipment maintenance.
+This 2+1 configuration allows SPCW thermal treatment to continue when one chamber is taken offline for inspection or maintenance,  
+provided the shared supporting systems remain operational.
 
 
 ## Overall concept of EILPT using steam boiler and generator
