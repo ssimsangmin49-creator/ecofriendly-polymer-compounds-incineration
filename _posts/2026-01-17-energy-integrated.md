@@ -53,12 +53,12 @@ to support uninterrupted operation during equipment maintenance.
     font-size:0.9rem;
     color:#9ca3af;
   ">
-    Figure 2. Overall concept of EILPT using steam boiler and generator
+    Figure 1. Overall concept of EILPT using steam boiler and generator
   </figcaption>
 </figure>
 
 <a href="#_" class="lightbox" id="wte-hx">
-  <img src="{{ '/assets/images/wte-2mw.png' | relative_url }}">
+  <img src="{{ '/assets/images/eilpt.png' | relative_url }}">
 </a>
 
 
