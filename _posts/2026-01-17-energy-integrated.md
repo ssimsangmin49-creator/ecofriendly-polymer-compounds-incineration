@@ -10,7 +10,7 @@ Application to EILPT(Energy-Integrated Local Plastic Treatment)-01
 ## Introduction to Energy-Integrated Local Plastic Treatment(EILPT) Applications
 
 This blog post will explain, with diagrams, the most basic method for operating 
-a Energy-Integrated Local Plastic Treatmen(EILPT)t facility using the incinerator introduced in this blog. 
+an Energy-Integrated Local Plastic Treatment(EILPT)t facility using the incinerator introduced in this blog. 
 However, this guide was written with consideration given the limited capacity 
 of the incinerator being introduced.
 
@@ -34,8 +34,8 @@ and one available for scheduled maintenance or standby.
 
 The chambers are operated in rotation to minimize downtime and maintain continuous SPCW treatment.  
 
-The steam power generation system is also designed with modular redundancy  
-to support uninterrupted operation during equipment maintenance.
+The steam power generation system is conceptually configured for modular operation  
+and maintenance flexibility during equipment maintenance.
 
 
 ## Overall concept of EILPT using steam boiler and generator
