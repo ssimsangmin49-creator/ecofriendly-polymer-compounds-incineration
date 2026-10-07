@@ -62,28 +62,27 @@ to support uninterrupted operation during equipment maintenance.
 </a>
 
 
-### Method of feeding waste into an incinerator
+### Example Configuration
 
-- Glass bottles, cans, and stones are sorted and removed from the waste fed into the chamber,
-  the waste is crushed in a shredder, and then loaded onto a conveyor belt
-- <span style="color:#1e40af; font-weight:bold;">
-  Glass bottles, cans and rocks are the only materials that cannot be thermal treated in this incinerator
-</span>
+- 3 × AFC Modules
+- 2 Operating + 1 Standby / Maintenance
+- Per Operating Module
+  Residual SPCW: approx. 150–200 kg/h
+  Heat recovery: Steam boiler
+  Steam turbine generators: 2 × 15 kW-class
+  Gross generation: up to approx. 30 kW
 
-<figure style="text-align:center;">
-  <img src="{{ '/assets/images/feeding-method.png' | relative_url }}"
-       alt="Method of feeding waste into an incinerator"
-        style="max-width:700px; width:100%;">
-  <figcaption style="
-    margin-top:0.75rem;
-    font-size:0.9rem;
-    color:#9ca3af;
-    ">
-  Figure 3. Feeding waste into an chamber using a shredder and conveyor
-  </figcaption>
-</figure>
+- Combined Operation
+  Plastic treatment: approx. 300–400 kg/h
+  Gross generation: up to approx. 60 kW
+  16-hour operation: up to approx. 960 kWh/day
 
+### Modular by Design
 
+- Multiple smaller units allow treatment to continue while one unit is offline for inspection or maintenance.
+  
+- Electricity is recovered as a useful by-product of local plastic treatment — not as the reason to consume plastic.
 
 
-
+## Treat locally. Recover what is useful.
+ 
