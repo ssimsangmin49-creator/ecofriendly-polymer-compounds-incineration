@@ -1,23 +1,23 @@
 ---
 layout: post
-title: "Waste to Energy-01"
+title: "Energy-Integrated Local Plastic Treatment(EILPT)-01"
 permalink: /waste-to-energy/
 label: "AZADrg blog(Application report-02)"
 ---
 
-Application to WTE(Waste-to-Energy)-01
+Application to EILPT(Energy-Integrated Local Plastic Treatment)-01
 
-## Introduction to Waste-to-Energy (WTE) Applications
+## Introduction to Energy-Integrated Local Plastic Treatment(EILPT) Applications
 
 This blog post will explain, with diagrams, the most basic method for operating 
-a Waste-to-Energy (WTE) facility using the incinerator introduced in this blog. 
+a Energy-Integrated Local Plastic Treatmen(EILPT)t facility using the incinerator introduced in this blog. 
 However, this guide was written with consideration given the limited capacity 
 of the incinerator being introduced.
 
-First, we will introduce a WTE facility dedicated to SPCW thermal treatment, 
+First, we will introduce a EILPT facility dedicated to SPCW thermal treatment, 
 equipped with a 2MW steam boiler-based power generation facility.
 
-The WTE facility is equipped with all waste input devices and dust collection facilities after the incinerator.
+The EILPT facility is equipped with all waste input devices and dust collection facilities after the incinerator.
 
 ## Incinerator Size
 
