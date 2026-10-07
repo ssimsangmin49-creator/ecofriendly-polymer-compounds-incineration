@@ -31,7 +31,9 @@ in parallel ensures continued operation in the event of one chamber failure.
 
 This concept assumes three AFC chambers (1500 mm ID or larger), with two operating continuously  
 and one available for scheduled maintenance or standby.  
+
 The chambers are operated in rotation to minimize downtime and maintain continuous SPCW treatment.  
+
 The steam power generation system is also designed with modular redundancy  
 to support uninterrupted operation during equipment maintenance.
 
