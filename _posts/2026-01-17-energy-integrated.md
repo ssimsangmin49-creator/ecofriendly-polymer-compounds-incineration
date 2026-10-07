@@ -14,35 +14,37 @@ a Energy-Integrated Local Plastic Treatmen(EILPT)t facility using the incinerato
 However, this guide was written with consideration given the limited capacity 
 of the incinerator being introduced.
 
-First, we will introduce a EILPT facility dedicated to SPCW thermal treatment, 
-equipped with a 2MW steam boiler-based power generation facility.
-
+First, we will introduce an EILPT facility dedicated to SPCW thermal treatment,  
+with an integrated steam power generation system rated at up to 60 kWe (gross, conceptual).
 The EILPT facility is equipped with all waste input devices and dust collection facilities after the incinerator.
 
-## Incinerator Size
+## Required chamber specifications
 
-Chambers used in WTE for SPCW thermal treatment should be 
+Chambers used in EILPT for SPCW thermal treatment should be 
 at least 1,500 mm in diameter (2,000 or 2,500 mm recommended). 
 Parallel operation of multiple incinerators is recommended. 
 
 This ensures sufficient heat generation. Connecting two or more incinerators 
 in parallel ensures continued operation in the event of one chamber failure.
 
-### Parallel connection of incinerators
+### Parallel connection of Chambers
 
-This blog assumes that two chambers larger than 1500 mm are connected in parallel 
-to thermal treatment of SPCW.
+This concept assumes three AFC chambers (1500 mm ID or larger), with two operating continuously  
+and one available for scheduled maintenance or standby.  
+The chambers are operated in rotation to minimize downtime and maintain continuous SPCW treatment.  
+The steam power generation system is also designed with modular redundancy  
+to support uninterrupted operation during equipment maintenance.
 
 <figure style="text-align:center;">
   <img src="{{ '/assets/images/parallel.png' | relative_url }}"
-       alt="Parallel connection of incinerators"
+       alt="Parallel connection of chambers"
         style="max-width:700px; width:100%;">
   <figcaption style="
     margin-top:0.75rem;
     font-size:0.9rem;
     color:#9ca3af;
     ">
-  Figure 1. Parallel connection image of an incinerator
+  Figure 1. Parallel connection image of an chambers
   </figcaption>
 </figure>
 
