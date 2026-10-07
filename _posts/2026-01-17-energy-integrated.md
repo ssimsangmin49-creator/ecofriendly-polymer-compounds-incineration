@@ -37,27 +37,14 @@ The chambers are operated in rotation to minimize downtime and maintain continuo
 The steam power generation system is also designed with modular redundancy  
 to support uninterrupted operation during equipment maintenance.
 
-<figure style="text-align:center;">
-  <img src="{{ '/assets/images/parallel.png' | relative_url }}"
-       alt="Parallel connection of chambers"
-        style="max-width:700px; width:100%;">
-  <figcaption style="
-    margin-top:0.75rem;
-    font-size:0.9rem;
-    color:#9ca3af;
-    ">
-  Figure 1. Parallel connection image of an chambers
-  </figcaption>
-</figure>
 
-
-## Overall concept of WTE using steam boiler and generator
+## Overall concept of EILPT using steam boiler and generator
 
 
 <figure style="text-align:center;">
   <a href="#wte-hx">
-    <img src="{{ '/assets/images/wte-2mw.png' | relative_url }}"
-         alt="Overall concept of WTE using steam boiler and generator"
+    <img src="{{ '/assets/images/eilpt.png' | relative_url }}"
+         alt="Overall concept of EILPT using steam boiler and generator"
          style="max-width:700px; width:100%; cursor: zoom-in;">
   </a>
 
@@ -66,7 +53,7 @@ to support uninterrupted operation during equipment maintenance.
     font-size:0.9rem;
     color:#9ca3af;
   ">
-    Figure 2. Overall concept of WTE using steam boiler and generator
+    Figure 2. Overall concept of EILPT using steam boiler and generator
   </figcaption>
 </figure>
 
