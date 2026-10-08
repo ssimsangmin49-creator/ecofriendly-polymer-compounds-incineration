@@ -77,5 +77,28 @@ provided the shared supporting systems remain operational.
 - Electricity is recovered as a useful by-product of local plastic treatment — not as the reason to consume plastic.
 
 
+### Overall Conceptual Drawing
+
+<figure style="text-align:center;">
+  <a href="#wte-hx">
+    <img src="{{ '/assets/images/eilpt-drawing.png' | relative_url }}"
+         alt="Overall conceptual Drawing of EILPT"
+         style="max-width:700px; width:100%; cursor: zoom-in;">
+  </a>
+
+  <figcaption style="
+    margin-top:0.75rem;
+    font-size:0.9rem;
+    color:#9ca3af;
+  ">
+    Figure 1. Overall conceptual Drawing of EILPT using steam boiler and generator
+  </figcaption>
+</figure>
+
+<a href="#_" class="lightbox" id="wte-hx">
+  <img src="{{ '/assets/images/eilpt-drawing.png' | relative_url }}">
+</a>
+
+
 ## Treat locally. Recover what is useful.
  
