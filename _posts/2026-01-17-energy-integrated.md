@@ -35,7 +35,7 @@ provided the shared supporting systems remain operational.
 
 
 <figure style="text-align:center;">
-  <a href="#wte-hx">
+  <a href="#eilpt-concept">
     <img src="{{ '/assets/images/eilpt.png' | relative_url }}"
          alt="Overall concept of EILPT using steam boiler and generator"
          style="max-width:700px; width:100%; cursor: zoom-in;">
@@ -50,7 +50,7 @@ provided the shared supporting systems remain operational.
   </figcaption>
 </figure>
 
-<a href="#_" class="lightbox" id="wte-hx">
+<a href="#_" class="lightbox" id="eilpt-concept">
   <img src="{{ '/assets/images/eilpt.png' | relative_url }}">
 </a>
 
@@ -80,7 +80,7 @@ provided the shared supporting systems remain operational.
 ### Overall Conceptual Drawing
 
 <figure style="text-align:center;">
-  <a href="#wte-hx">
+  <a href="#eilpt-drawing">
     <img src="{{ '/assets/images/eilpt-drawing.png' | relative_url }}"
          alt="Overall conceptual Drawing of EILPT"
          style="max-width:700px; width:100%; cursor: zoom-in;">
@@ -95,7 +95,7 @@ provided the shared supporting systems remain operational.
   </figcaption>
 </figure>
 
-<a href="#_" class="lightbox" id="wte-hx">
+<a href="#_" class="lightbox" id="eilpt-drawing">
   <img src="{{ '/assets/images/eilpt-drawing.png' | relative_url }}">
 </a>
 
