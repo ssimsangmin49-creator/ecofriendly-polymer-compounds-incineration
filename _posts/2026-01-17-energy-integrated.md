@@ -91,7 +91,7 @@ provided the shared supporting systems remain operational.
     font-size:0.9rem;
     color:#9ca3af;
   ">
-    Figure 1. Overall conceptual Drawing of EILPT using steam boiler and generator
+    Figure 2. Overall conceptual Drawing of EILPT using steam boiler and generator
   </figcaption>
 </figure>
 
