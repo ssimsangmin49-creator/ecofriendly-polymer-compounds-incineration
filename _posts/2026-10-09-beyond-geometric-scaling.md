@@ -2,6 +2,7 @@
 ## Toward Stage Optimization in AFC Architecture
 
 **AZADrg | Engineering Notes | October 9, 2026**
+
 ### The Question
 
 As the internal diameter of an AFC chamber increases from 500 mm to 1000 mm, 1500 mm, and beyond, the chamber volume increases nonlinearly.
