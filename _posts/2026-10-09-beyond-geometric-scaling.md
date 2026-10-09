@@ -1,4 +1,3 @@
-# Beyond Geometric Scaling
 ## Toward Stage Optimization in AFC Architecture
 
 **AZADrg | Engineering Notes | October 9, 2026**
