@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beyond Geometric Scaling — Toward Stage Optimization in AFC Architecture"
+title: "Beyond Geometric Scaling"
 permalink: /blog/beyond-geometric-scaling/
 label: Engineering Notes
 ---
