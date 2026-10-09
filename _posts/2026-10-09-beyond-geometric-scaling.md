@@ -58,3 +58,5 @@ For that reason, its design principles should eventually be expressed through un
 **The objective is not simply to build larger chambers. It is to understand how chamber geometry supports the formation and completion of a self-sustained oxidation flow.**
 
 *This note documents an ongoing engineering investigation. No optimized stage ratios or scale-independent performance claims are established here.*
+
+[Download AFC Scaling Simulation V1 (Excel)]({{ '/assets/downloads/AFC-Scaling-Simulation-V1.xlsx' | relative_url }})
