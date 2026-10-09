@@ -66,7 +66,7 @@ For that reason, its design principles should eventually be expressed through un
 
 *This note documents an ongoing engineering investigation. No optimized stage ratios or scale-independent performance claims are established here.*
 
-[Download AFC Scaling Simulation V1 (Excel)]({{ '/assets/downloads/AFC-Scaling-Simulation-V1.xlsx' | relative_url }})
+🗃️[Download AFC Scaling Simulation V1 (Excel)]({{ '/assets/downloads/AFC-Scaling-Simulation-V1.xlsx' | relative_url }})
 
 #### Engineering Data — AFC Scaling Simulation V1
 
