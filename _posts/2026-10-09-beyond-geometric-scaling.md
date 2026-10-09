@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Toward Stage Optimization in AFC Architecture"
+permalink: /beyond-geometric-scaling/
+label: "AZADrg blog(Engineering Notes-02)"
+---
+
 # Beyond Geometric Scaling
 ## Toward Stage Optimization in AFC Architecture
 
