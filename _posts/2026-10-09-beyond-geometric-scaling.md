@@ -60,3 +60,8 @@ For that reason, its design principles should eventually be expressed through un
 *This note documents an ongoing engineering investigation. No optimized stage ratios or scale-independent performance claims are established here.*
 
 [Download AFC Scaling Simulation V1 (Excel)]({{ '/assets/downloads/AFC-Scaling-Simulation-V1.xlsx' | relative_url }})
+
+#### Engineering Data — AFC Scaling Simulation V1
+
+Preliminary geometric scaling model based on the AFC-500 reference configuration and an empirical AFC-2500 chamber diameter.
+The spreadsheet includes editable design assumptions and calculated Stage 1 volumes. It is intended for preliminary design exploration, not as a validated engineering specification.
