@@ -1,3 +1,14 @@
+---
+layout: post
+title: "Beyond Geometric Scaling — Toward Stage Optimization in AFC Architecture"
+date: 2026-10-09
+author: AZADrg
+categories: [Engineering Notes]
+tags: [AFC, SSOF, chamber-design, stage-optimization, thermal-oxidation]
+description: "Engineering considerations for AFC chamber scaling, central rod geometry, and optimization of the three-stage oxidation flow."
+---
+
+
 ## Toward Stage Optimization in AFC Architecture
 
 **AZADrg | Engineering Notes | October 9, 2026**
