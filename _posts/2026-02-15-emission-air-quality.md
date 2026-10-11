@@ -5,105 +5,207 @@ permalink: /emission-air-quality/
 label: "AZADrg Blog (Application report-05)"
 ---
 
-## Stack Gas Quality – Thermal Treatment Process (SGS Method)
+# Preliminary Emission Air Quality & TEQ Analysis
 
-This note summarizes three emission air quality analysis reports obtained from stack gas sampling during controlled thermal treatment operation. The purpose of this document is to provide a technical overview of emission characteristics, combustion stability, and preliminary Dioxin/Furan (TEQ) performance under real operating conditions.
+**Stack Gas Measurements, Oxidation Behavior, and Reference Comparison**
 
-### 1. Combustion and Process Conditions
+*Original publication: 15 February 2026*  
+*Technical revision: 11 October 2026*
 
-Measured parameters indicate a stable excess-air oxidation regime:
-- Stack temperature: approx. 260–277 °C
-- Oxygen (O₂): ~11–12.5 %
-- Gas flow rate: approx. 4,300 Nm³/hr
-- Opacity: 0.0
+## Introduction
 
-The relatively high residual oxygen level suggests lean combustion conditions with sufficient air supply. The absence of visible opacity implies low soot formation and effective oxidation during thermal treatment.
+This technical note reviews emission air quality measurements obtained during field operation of a gas-phase thermal oxidation process developed for Synthetic Polymer Compound Waste (SPCW).
 
-### 2. Acid Gases and Conventional Pollutants
+The assessment draws on three emission analysis reports, including measurements conducted by SGS in Thailand, and considers additional field-testing experience in Korea.
 
-Key measured results (SGS stack sampling):
+The purpose is to distinguish measured emission concentrations from technical interpretations, evaluate preliminary Dioxin/Furan (TEQ) results, and provide context through publicly available data from conventional Waste-to-Energy (WtE) facilities.
 
-- NOx: ~16 ppm (well below reference limit)
-- SO₂: Not detected
-- HCl: ~13 ppm
-- HF: ~0.94 ppm
-- Total Suspended Particulates (TSP): ~4.4 mg/Nm³
+The findings represent specific operating and sampling conditions. They do not constitute regulatory certification or a demonstration of long-term emission compliance.
 
-All measured values remained significantly below reference emission standards. The low particulate concentration and zero opacity indicate minimal incomplete combustion products.
+## 1. Operating Conditions and Combustion State
 
-### 3. Heavy Metals
+The reported stack gas measurements include:
 
-Measured heavy metals were either not detected or present only in trace quantities:
+| Parameter | Reported value |
+|---|---|
+| Stack gas temperature | Approx. 260–277 °C |
+| Oxygen (O₂) | Approx. 11–12.5% |
+| Carbon dioxide (CO₂) | 7.21% in the referenced Thailand test |
+| Gas flow rate | Approx. 4,330 Nm³/h |
+| Opacity | 0.0 |
 
-- Mercury (Hg): Not detected
-- Cadmium (Cd): ~0.002 mg/Nm³
-- Lead (Pb): ~0.057 mg/Nm³
+The residual oxygen concentration indicates operation under excess-air conditions during the sampling period.
 
-These values suggest limited volatilization of metal contaminants during the test condition.
+The presence of CO₂ confirms carbon oxidation, while the reported zero opacity indicates an absence of measurable visible plume opacity under the test conditions.
 
+However, oxygen concentration and opacity alone cannot establish complete combustion. Carbon monoxide (CO), total organic carbon (TOC), operating temperature, and residence-time information are also relevant to a comprehensive assessment.
 
-### 4. Dioxins and Furans (Preliminary TEQ Results)
+The reported stack temperature represents the temperature at the sampling location and should not be interpreted as the peak temperature within the oxidation chamber.
 
-Dioxin/Furan analysis using TEQ conversion produced the following preliminary result:
+## 2. Conventional Air Pollutants
 
-<strong>Total Dioxins/Furans (TEQ): ~0.00229 ng-TEQ/Nm³</strong>
+The reported measurements include:
 
-Reference emission guideline shown in the report:
-0.5 ng-TEQ/Nm³ (waste incinerator standard).
+| Pollutant | Reported concentration |
+|---|---|
+| Nitrogen oxides (NOx) | Approx. 16 ppm |
+| Sulfur dioxide (SO₂) | Not detected |
+| Hydrogen chloride (HCl) | Approx. 13 ppm |
+| Hydrogen fluoride (HF) | Approx. 0.94 ppm |
+| Total suspended particulates (TSP) | Approx. 4.4 mg/Nm³ |
 
-The measured TEQ value is substantially lower than the referenced limit under the sampling condition.
+These results indicate relatively low measured concentrations of several conventional pollutants during the sampled operation.
 
-Congener distribution indicates that higher-chlorinated species dominated the mass fraction, while TEQ-weighted toxic congeners remained very low. This pattern is typically associated with stable high-temperature oxidation and reduced re-formation during cooling.
+The low NOx concentration is noteworthy, but it cannot independently establish a low peak flame temperature. NOx formation depends on multiple factors, including local temperature, oxygen availability, nitrogen-containing feedstock, and gas residence time.
 
-### 5. Technical Interpretation
+Similarly, low particulate concentration and zero opacity provide favorable evidence concerning particulate emissions, but they do not independently demonstrate the absence of gaseous products of incomplete oxidation.
 
-Across the three analysis reports, the combined emission profile suggests:
+Regulatory comparisons require confirmation of the applicable emission limits, dry-gas basis, oxygen correction, sampling methods, and averaging periods.
 
-- Stable excess-air thermal oxidation
-- Extremely low particulate formation
-- Low acid gas emissions
-- Ultra-low preliminary TEQ levels without indication of secondary flue-gas treatment in the test description
+## 3. Heavy Metals
 
-These results should be interpreted as <strong>preliminary stack gas performance data</strong> under specific operating conditions. Waste composition, residence time, and long-term operational variability were not evaluated within this single sampling event.
+Selected reported heavy-metal concentrations were:
 
-### 6. Limitations
+| Substance | Reported concentration |
+|---|---|
+| Mercury (Hg) | Not detected |
+| Cadmium (Cd) | Approx. 0.002 mg/Nm³ |
+| Lead (Pb) | Approx. 0.057 mg/Nm³ |
 
-- Sampling was conducted at a specific time and operating state.
-- Results do not represent regulatory certification or continuous monitoring data.
-- Additional testing under varied feedstock and operating conditions is recommended for comprehensive evaluation.
+These measurements indicate low or non-detectable concentrations for the selected metals under the reported conditions.
 
-## Summary
+A non-detect result means that the substance was below the applicable analytical detection or reporting limit. It does not establish absolute absence.
 
-The emission air quality data set indicates a controlled thermal treatment regime characterized by clean oxidation behavior, low particulate emissions, and very low preliminary TEQ values. The findings support further technical evaluation while emphasizing the importance of contextual interpretation and operational limitations.
+Heavy-metal emissions may vary with waste composition, metal content, temperature, and particulate behavior. The available results should therefore not be generalized to all SPCW feedstocks.
 
-<span style="color:#1e40af; font-weight:bold;">
-Combustion State
-</span>
-<p>
-Stable excess-air oxidation behavior indicated by sustained CO₂ formation, low particulate levels, and zero visible opacity during continuous operation.
-</p>
-<span style="color:#1e40af; font-weight:bold;">
-Temperature Stress
-</span>
-<p>
-Moderated thermal profile suggested by low NOx levels, implying controlled peak flame temperatures rather than aggressive high-temperature combustion.
-</p>
-<span style="color:#1e40af; font-weight:bold;">
-Toxicity Indicators
-</span>
-<p>
-Preliminary ultra-low TEQ and controlled acid-gas measurements observed under field-based stack testing conditions.
+## 4. Dioxins and Furans — Preliminary TEQ Assessment
 
-  <figure style="text-align:center;">
-  <img src="{{ '/assets/images/teq-test.jpg' | relative_url }}"
-       alt="Air quality & TEQ test in Thailand"
-        style="max-width:700px; width:100%;">
-  <figcaption style="
-    margin-top:0.75rem;
-    font-size:0.9rem;
-    color:#9ca3af;
-    ">
-  Figure.Field photos for air quality and TEQ measurements
-  </figcaption>
-</figure>
-</p>
+Dioxins and furans are evaluated using Toxic Equivalency (TEQ), which weights individual congeners according to their relative toxic potency.
+
+The SGS Thailand analysis provides the following reference result:
+
+| Basis | TEQ concentration |
+|---|---|
+| Reported concentration at 7% O₂ | **0.0332 ng-TEQ/Nm³** |
+| Calculated equivalent at 11% O₂ | **Approx. 0.0237 ng-TEQ/Nm³** |
+
+The oxygen-reference conversion is calculated using:
+
+**C(ref) = C(measured) × (21 − O₂ ref) / (21 − O₂ measured basis)**
+
+Therefore:
+
+**0.0332 × (21 − 11) / (21 − 7) = 0.0237 ng-TEQ/Nm³**
+
+The 11% O₂ value is a calculated equivalent, not a separate laboratory measurement. It assumes that the reported 7% O₂ concentration is already expressed on the relevant reference basis.
+
+The previously published preliminary value of 0.00229 ng-TEQ/Nm³ has been excluded from the principal results pending verification of its original calculation basis.
+
+The TEQ results require careful interpretation. Comparisons must account for the toxicity equivalency scheme (such as I-TEQ or WHO-TEQ), oxygen reference, dry-gas basis, analytical treatment of non-detected congeners, and sampling conditions.
+
+The measurements provide evidence of low TEQ concentrations during the sampled operation but do not establish consistently low dioxin and furan emissions across all operating conditions.
+
+## 5. Reference Comparison — Conventional Waste-to-Energy Facilities
+
+Public emission-monitoring records from UK Waste-to-Energy facilities provide useful external context.
+
+For example, Kent Enviropower publishes periodic Dioxin/Furan monitoring results expressed as percentages of its applicable emission limit.
+
+Selected results for Line 1 include:
+
+| Sampling period | Dioxins/Furans as % of ELV |
+|---|---:|
+| January 2017 | 19% |
+| July 2017 | 6% |
+| January 2024 | 61% |
+| July 2024 | 91.6% |
+| January 2025 | 66.66% |
+
+These percentages are the operator's published results, not directly reported TEQ concentrations.
+
+Using a reference limit of 0.1 ng I-TEQ/Nm³, the corresponding arithmetic equivalents would range from approximately 0.006 to 0.0916 ng I-TEQ/Nm³ for the selected observations.
+
+This conversion is illustrative and must not be treated as an independently verified reconstruction of the original laboratory results.
+
+The SGS Thailand result of approximately 0.0237 ng-TEQ/Nm³ at an 11% oxygen reference lies within the numerical range of these selected WtE reference values.
+
+However, this does not establish equivalent environmental performance.
+
+Conventional WtE facilities commonly employ dedicated flue-gas cleaning systems, while the reported AZADrg field configuration did not use a downstream scrubber or comparable pollution-control train. The test arrangement included heat exchange for sampling-equipment protection.
+
+Differences in waste composition, treatment capacity, sampling duration, pollution-control systems, TEQ methodology, and operating conditions prevent a direct performance ranking.
+
+The comparison demonstrates that publicly available industrial emission data can provide useful context for further technical investigation.
+
+## 6. Interpretation of the Oxidation Process
+
+The available measurements may be considered under three distinct categories.
+
+### Combustion State
+
+Residual oxygen, CO₂ formation, low reported particulate concentrations, and zero opacity are consistent with an excess-air gas-phase oxidation regime during the sampled operation.
+
+These indicators support the interpretation of controlled oxidation behavior, although complete combustion requires additional evidence.
+
+### Thermal Behavior
+
+The measured NOx concentration was relatively low during the sampling period.
+
+However, NOx alone cannot determine the peak oxidation temperature or characterize the full thermal history of the gas stream.
+
+Chamber-temperature measurements, gas residence time, and temperature distribution are needed for a more complete assessment.
+
+### Toxicity Indicators
+
+The reported Dioxin/Furan TEQ, selected heavy metals, and acid-gas concentrations provide preliminary evidence concerning the emission profile under the tested conditions.
+
+These are emission indicators, not a complete assessment of environmental or human-health risk.
+
+## 7. Process Configuration and Field Experience
+
+The AZADrg approach is based on controlled formation and completion of a self-sustained oxidation flow (SSOF) within a staged gas-phase oxidation architecture.
+
+The field configuration is intended to promote oxidation through controlled air distribution rather than relying on a conventional secondary combustion chamber.
+
+Field trials in Thailand and Korea have contributed operational observations under different waste-loading and operating conditions.
+
+The Korean field experience included extended operation with heterogeneous waste materials. However, the available information does not establish a directly comparable emissions dataset for every operating condition.
+
+The Thailand emission results therefore remain the principal quantitative reference discussed in this note.
+
+The absence of a downstream scrubber in the reported test configuration is an important engineering characteristic, but it does not remove the need for emission-control evaluation or compliance with applicable environmental regulations.
+
+## 8. Limitations and Further Validation
+
+The present assessment is preliminary for several reasons:
+
+- Measurements represent specific sampling periods rather than continuous long-term monitoring.
+- Waste composition and operating conditions may vary substantially between applications.
+- The relationship between chamber temperature, gas residence time, and emission formation has not been comprehensively established.
+- Additional verification of TEQ calculation conventions and reference conditions is required.
+- Startup, shutdown, abnormal feeding, and transient operating conditions require further evaluation.
+- Repeated independent sampling is necessary before drawing conclusions about reproducibility and regulatory compliance.
+
+Future testing should include representative SPCW feedstocks, documented operating conditions, repeated Dioxin/Furan sampling, and comprehensive measurement of conventional pollutants.
+
+## Conclusion
+
+The available field measurements provide encouraging preliminary evidence of controlled gas-phase oxidation and relatively low concentrations of selected air pollutants during the tested operating conditions.
+
+The SGS Thailand Dioxin/Furan result of **0.0332 ng-TEQ/Nm³ at 7% O₂**, equivalent by calculation to approximately **0.0237 ng-TEQ/Nm³ at 11% O₂**, is a useful reference point for further technical evaluation.
+
+Selected publicly reported UK WtE measurements provide comparative context, but the available evidence does not justify a claim of superior or equivalent overall emission performance.
+
+The principal significance of these findings lies in the opportunity to investigate a comparatively simple gas-phase thermal oxidation architecture under independently measured operating conditions.
+
+**The next objective is not to claim universal performance, but to establish reproducibility through transparent measurement and field validation.**
+
+---
+
+## References and Data Sources
+
+1. SGS Thailand — Stack Gas Emission Analysis and Dioxin/Furan TEQ reports, AZADrg field-test records.
+2. Kent Enviropower — Public Emissions Monitoring Reports: https://kentenviropower.fccenvironment.co.uk/emissions-reports/
+3. UK Environment Agency — Incinerator Annual Monitoring Reporting: https://environment.data.gov.uk/dataset/3500ab14-6546-45cf-acb2-c2a40e350737
+
+*Note: The numerical comparisons presented here are for technical reference only. They are not regulatory equivalence assessments or certifications of environmental performance.*
