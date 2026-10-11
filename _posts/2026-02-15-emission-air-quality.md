@@ -5,8 +5,6 @@ permalink: /emission-air-quality/
 label: "AZADrg Blog (Application report-05)"
 ---
 
-# Preliminary Emission Air Quality & TEQ Analysis
-
 **Stack Gas Measurements, Oxidation Behavior, and Reference Comparison**
 
 *Original publication: 15 February 2026*  
