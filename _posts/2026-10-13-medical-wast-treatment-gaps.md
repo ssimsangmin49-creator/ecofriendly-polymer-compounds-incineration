@@ -5,9 +5,7 @@ permalink: /blog/medical-waste-treatment-gaps/
 label: Engineering Notes
 ---
 
-# Medical Waste Treatment Gaps in Low-Resource Healthcare Settings
-
-*Observations and a Non-Commercial Field Evaluation Framework*
+#### *Observations and a Non-Commercial Field Evaluation Framework*
 
 ## Background
 
