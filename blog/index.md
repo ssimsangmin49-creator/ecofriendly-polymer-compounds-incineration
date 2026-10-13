@@ -62,8 +62,8 @@ permalink: /blog/
   /* Main layout */
   .blog-layout {
     display: grid;
-    grid-template-columns: 240px minmax(0, 1fr);
-    gap: 32px;
+    grid-template-columns: 260px minmax(0, 1fr);
+    gap: 36px;
     align-items: start;
   }
 
