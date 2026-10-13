@@ -51,3 +51,26 @@ main, article {
 .video-wrap { max-width: 900px; margin: 16px auto; }
 .video-wrap video { width: 100%; height: auto; border-radius: 12px; }
 
+
+/* Blog page only — wider layout */
+main:has(> .blog-wrap) {
+  max-width: 1500px;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0 24px;
+}
+
+/* Remove global main restrictions inside Blog */
+.blog-layout main.blog-content {
+  max-width: none;
+  width: auto;
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+}
+
+@media (max-width: 760px) {
+  main:has(> .blog-wrap) {
+    padding: 0 12px;
+  }
+}
