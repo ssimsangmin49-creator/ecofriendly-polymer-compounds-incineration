@@ -11,9 +11,9 @@ permalink: /blog/
     --blog-accent: #2563eb;
     --blog-card: #fff;
 
-    max-width: 1160px;
+    max-width: 1440px;
     margin: 0 auto;
-    padding: 72px 18px;
+    padding: 48px 30px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     color: var(--blog-text);
   }
